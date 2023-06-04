@@ -3,6 +3,7 @@
   list-style: none;
   padding: 0;
   margin: 0;
+  background-color: #e6e8e9;
 }
 
 .App {
@@ -14,30 +15,11 @@
   font-size: 30px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
 
-.App-header {
-  background-color: #0d2e88;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #060606;
-}
 
 .Candidatos {
   text-decoration: none;
-  color: #0f0c0c;
+  color: #0e0e0e;
   box-sizing: border-box;
   border: 1px solid #252f48;
   padding: 10px;
@@ -48,19 +30,13 @@
   text-align: center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
 
-.menu li a {
+.menu li a{
   font-size: 13px;
   position: absolute;
-  left: 20px;
+  left: 10px;
+  margin: 20px;
+
 }
 
 

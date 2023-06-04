@@ -21,7 +21,8 @@ function App() {
         <main>
 
         <div className="App">
-          <p>Aprende qué está detrás de tu voto</p>
+          <h4>Aprende qué está
+            detrás de tu voto!</h4>
         </div>
 
         <h1>Candidatos</h1>
