@@ -5,16 +5,18 @@ function App() {
   return (
     <div>
       <header>
-        <div className="menu">
-          <ul>
-            <li>
-              <a>Por quién votar</a>
-            </li>
-            <li>
-              <a href="#">Nosotros</a>
-            </li>
-          </ul>
+        
+        <div>
+        <ul className="menu-horizontal">
+
+          <li>
+              <a><span style={{ color: 'black' }}><h4>Por quién votar</h4></span></a></li>
+              <li> <a href="#">Nosotros</a></li>
+              </ul>
         </div>
+
+
+       
         </header>
 
 
