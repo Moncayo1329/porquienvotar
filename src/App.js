@@ -31,14 +31,14 @@ function App() {
 
         <div className="Candidatos">
           <ul>
-            <li>
+            <li className="Candidatos-1">
               <a href="https://es.wikipedia.org/wiki/Aaron_Swartz" target="_blank" rel="noopener noreferrer">
                 Jon Topic
               </a>
             </li>
-            <li>Yaku Perez</li>
-            <li>Leonidas Iza</li>
-            <li>Fernando Villaviciencio</li>
+            <li className="Candidatos-2">Yaku Perez</li>
+            <li className="Candidatos-3">Leonidas Iza</li>
+            <li className="Candidatos-4">Fernando Villaviciencio</li>
           </ul>
         </div>
         </main>
