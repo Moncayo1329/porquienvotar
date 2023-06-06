@@ -7,6 +7,8 @@ import './styles/App.css';
 import Nosotros from './pages/main1';
 import Candidato1 from './pages/main2';
 
+
+
 function Main() {
   return (
     <BrowserRouter>
