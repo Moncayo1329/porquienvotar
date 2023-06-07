@@ -127,4 +127,67 @@ h1 {
   left: 30%;
 
 
+} 
+
+
+/* propuestas */ 
+
+
+.propuestas-1{
+width: 160px; /* Ancho del elemento */
+height: 30px; /* Altura del elemento */
+padding: 10px; /* Relleno interno del contenido */
+border: 1px solid #347fd5; /* Borde del elemento */
+margin: 30px; /* Margen externo alrededor del elemento */
+position: absolute;
+bottom: 15%;
+left: 55px;
+
 }
+
+.propuestas-2{
+  width: 160px; /* Ancho del elemento */
+  height: 30px; /* Altura del elemento */
+  padding: 10px; /* Relleno interno del contenido */
+  border: 1px solid #347fd5; /* Borde del elemento */
+  margin: 30px; /* Margen externo alrededor del elemento */
+  position: absolute;
+  bottom: 25%;
+  left: 55px;
+  
+  }
+
+
+  .propuestas-3{
+    width: 160px; /* Ancho del elemento */
+    height: 30px; /* Altura del elemento */
+    padding: 10px; /* Relleno interno del contenido */
+    border: 1px solid #347fd5; /* Borde del elemento */
+    margin: 30px; /* Margen externo alrededor del elemento */
+    position: absolute;
+    bottom: 35%;
+    left: 55px;
+    
+    }
+
+    .propuestas-4{
+      width: 160px; /* Ancho del elemento */
+      height: 30px; /* Altura del elemento */
+      padding: 10px; /* Relleno interno del contenido */
+      border: 1px solid #347fd5; /* Borde del elemento */
+      margin: 30px; /* Margen externo alrededor del elemento */
+      position: absolute;
+      bottom: 45%;
+      left: 55px;
+      
+      }
+
+
+
+      #bitcoin{
+ position: absolute;
+ top: 150%;
+
+
+
+      }

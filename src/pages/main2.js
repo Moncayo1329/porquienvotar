@@ -23,6 +23,23 @@ function Candidato1() {
           </ul>
         </div>
       </header>
+
+      <div className="Propuestas">
+        <ul>
+          <li className="propuestas-1">Seguridad</li>
+          <li className="propuestas-2">Bitcoin</li>
+          <li className="propuestas-3">Economía</li>
+          <li className="propuestas-4">
+            <a href="#bitcoin">Salud</a>
+          </li>
+        </ul>
+      </div>
+
+      <footer>
+        <section id="bitcoin">
+          Hola, ¿cómo estás? Estamos hablando de Bitcoin ahora y queremos que esto se solucione muy bien para un futuro descentralizado.
+        </section>
+      </footer>
     </div>
   );
 }
