@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 function Candidato1() {
   return (
     <div>
-      <h1>Candidato 1</h1>
+      <h1 className="titulo">Candidato 1</h1>
 
       <header>
         <div>
