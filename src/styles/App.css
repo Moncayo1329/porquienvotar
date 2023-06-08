@@ -64,6 +64,7 @@ h1 {
   position: absolute;
   bottom: 40%;
   left: 55px;
+  text-align: center;
 
 
 }
@@ -78,6 +79,7 @@ h1 {
   position: absolute;
   bottom: 28%;
   left: 55px;
+  text-align: center;
 
 
 
@@ -94,6 +96,7 @@ h1 {
   position: absolute;
   bottom: 15%;
   left: 55px;
+  text-align: center;
 
 }
 
@@ -109,6 +112,7 @@ h1 {
   position: absolute;
   bottom: 2%;
   left: 55px;
+  text-align: center;
 
 
 }
@@ -142,6 +146,7 @@ margin: 30px; /* Margen externo alrededor del elemento */
 position: absolute;
 bottom: 15%;
 left: 55px;
+text-align: center;
 
 }
 

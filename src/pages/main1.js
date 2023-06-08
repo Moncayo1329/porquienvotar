@@ -8,7 +8,7 @@ function Nosotros() {
     return (
      
         <div>
-        <h1>Candidato 1</h1>
+        <h1>Jan T. Topic</h1>
   
         <header>
           <div>
