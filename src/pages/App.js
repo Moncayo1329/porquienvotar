@@ -31,9 +31,12 @@ function HomePage() {
         <div className="Candidatos">
           <ul>
             <li className="Candidatos-1">
-              <Link to="/Candidato1"><span style={{ color: 'black' }}>Jan T. Topic</span></Link>
+              <Link to="/JanTTopic"><span style={{ color: 'black' }}>Jan T. Topic</span></Link>
             </li>
-            <li className="Candidatos-2">Otto Sonnenholzner</li>
+             <li className="Candidatos-2">
+             <Link to="/OttoSonnenholzner"><span style={{ color: 'black' }}> Otto Sonnenholzner</span></Link>
+              </li>
+              
             <li className="Candidatos-3">Leonidas Iza</li>
             <li className="Candidatos-4">Fernando Villaviciencio</li>
           </ul>

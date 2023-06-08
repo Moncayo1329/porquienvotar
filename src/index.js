@@ -5,7 +5,8 @@ import HomePage from './pages/App';
 import reportWebVitals from './reportWebVitals';
 import './styles/App.css';
 import Nosotros from './pages/main1';
-import Candidato1 from './pages/main2';
+import JanTTopic from './pages/main2'; 
+import OttoSonnenholzner from './pages/main3'; 
 
 
 
@@ -15,7 +16,8 @@ function Main() {
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/Nosotros" element={<Nosotros />} />
-        <Route path="/Candidato1" element={<Candidato1 />} />
+        <Route path="/JanTTopic" element={<JanTTopic />} />
+        <Route path="/OttoSonnenholzner" element={<OttoSonnenholzner />} />
       </Routes>
     </BrowserRouter>
   );

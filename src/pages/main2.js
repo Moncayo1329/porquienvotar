@@ -2,10 +2,11 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-function Candidato1() {
+function JanTTopic() {
   return (
     <div>
       <h1 className="titulo">Jan T. Topic</h1>
+      <h2>Propuestas</h2>
 
       <header>
         <div>
@@ -30,7 +31,7 @@ function Candidato1() {
           <li className="propuestas-2">Bitcoin</li>
           <li className="propuestas-3">Economía</li>
           <li className="propuestas-4">
-            <a href="#bitcoin">Salud</a>
+            <a href="#bitcoin"> <span style={{ color: 'black' }}>Bitcoin</span></a>
           </li>
         </ul>
       </div>
@@ -44,4 +45,4 @@ function Candidato1() {
   );
 }
 
-export default Candidato1;
+export default JanTTopic;
