@@ -23,7 +23,7 @@ function HomePage() {
 
       <main>
         <div className="App">
-          <h4>Aprende qué está detrás de tu voto!</h4>
+          <h4>Aprende qué está detrás de tu voto!🗳️</h4>
         </div>
 
         <h1>Candidatos</h1>
@@ -37,7 +37,7 @@ function HomePage() {
              <Link to="/OttoSonnenholzner"><span style={{ color: 'black' }}> Otto Sonnenholzner</span></Link>
               </li>
               
-            <li className="Candidatos-3">Leonidas Iza</li>
+            <li className="Candidatos-3">Xavier Hervas</li>
             <li className="Candidatos-4">Fernando Villaviciencio</li>
           </ul>
         </div>

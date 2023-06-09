@@ -27,8 +27,8 @@ function JanTTopic() {
 
       <div className="Propuestas">
         <ul>
-          <li className="propuestas-1">Seguridad</li>
-          <li className="propuestas-2">Bitcoin</li>
+          <li className="propuestas-1">Seguridad🦺</li>
+          <li className="propuestas-2">Bitcoin ₿</li>
           <li className="propuestas-3">Economía</li>
           <li className="propuestas-4">
             <a href="#bitcoin"> <span style={{ color: 'black' }}>Bitcoin</span></a>
