@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import imagen from '../assets/imagen3.jpg';
 
 
 
@@ -25,7 +26,26 @@ function Nosotros() {
             </ul>
           </div>
         </header>
+
+
+        <div>
+          <img src={imagen} alt='descripcion' />
+        </div>
+        
+
+
+
+
+
+
+
+
+
+
+
       </div>
+
+     
          
   
   

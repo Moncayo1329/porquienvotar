@@ -6,6 +6,21 @@
   background-color: #e6e8e9;
 }
 
+/* ImageNosotros */
+
+img{
+
+  width: 260px; 
+  height: 330px;
+  position: absolute;
+  left: 45px;
+  bottom: 240px;
+  
+
+}
+
+
+
 .App {
   text-align: center;
   text-decoration: none;
@@ -154,7 +169,7 @@ h1 {
   margin: 30px; /* Margen externo alrededor del elemento */
   font-size: 15px;
   position: absolute;
-  bottom: -35%;
+  bottom: -33%;
   left: 55px;
   text-align: center;
 
@@ -169,7 +184,7 @@ h1 {
   margin: 30px; /* Margen externo alrededor del elemento */
   font-size: 15px;
   position: absolute;
-  bottom: -47%;
+  bottom: -45%;
   left: 55px;
   text-align: center;
 
