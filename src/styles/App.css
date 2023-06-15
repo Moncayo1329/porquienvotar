@@ -289,3 +289,303 @@ text-align: center;
 
       
 
+ /* pagina inicial */
+
+
+
+       /* responsive web desing */ 
+        /* mobil M pagina inicial */ 
+
+
+       @media (min-width: 375px) {
+        .Candidatos-1{
+          position: absolute;
+          left: 84px;
+        }
+        .Candidatos-2{
+          position: absolute;
+          left: 84px;
+        }
+        .Candidatos-3{
+          position: absolute;
+          left: 84px;
+        }
+        .Candidatos-4{
+          position: absolute;
+          left: 84px;
+        }
+        .Candidatos-5{
+          position: absolute;
+          left: 84px;
+        }
+        .Candidatos-6{
+          position: absolute;
+          left: 84px;
+        }
+        .Candidatos-7{
+          position: absolute;
+          left: 84px;
+        }
+        .Candidatos-8{
+          position: absolute;
+          left: 84px;
+        }
+      }
+
+
+ /* mobil M pagina inicial 425 */ 
+
+
+
+      @media (min-width: 425px) {
+        .Candidatos-1{
+          position: absolute;
+          left: 100px;
+        }
+        .Candidatos-2{
+          position: absolute;
+          left: 100px;
+        }
+        .Candidatos-3{
+          position: absolute;
+          left: 100px;
+        }
+        .Candidatos-4{
+          position: absolute;
+          left: 100px;
+        }
+        .Candidatos-5{
+          position: absolute;
+          left: 100px;
+        }
+        .Candidatos-6{
+          position: absolute;
+          left: 100px;
+        }
+        .Candidatos-7{
+          position: absolute;
+          left: 100px;
+        }
+        .Candidatos-8{
+          position: absolute;
+          left: 100px;
+        }
+      }
+      
+
+  /* mobil M pagina tablet */ 
+
+  @media (min-width: 768px) {
+
+    .App{
+      position: absolute;
+      left: 125px;
+    }
+    .Candidatos-1{
+      position: absolute;
+      left: 100px;
+    }
+    .Candidatos-2{
+      position: absolute;
+      left: 400px;
+      top: 283px;
+    }
+    .Candidatos-3{
+      position: absolute;
+      left: 100px;
+      bottom: 170px;
+    }
+    .Candidatos-4{
+      position: absolute;
+      left: 400px;
+      bottom: 170px;
+    }
+    .Candidatos-5{
+      position: absolute;
+      bottom: 70px;
+    }
+    .Candidatos-6{
+      position: absolute;
+      left: 400px;
+      bottom: 70px;
+    }
+    .Candidatos-7{
+      position: absolute;
+      left: 100px;
+      bottom: -20px;
+    }
+    .Candidatos-8{
+      position: absolute;
+      left: 400px;
+      bottom: -20px;
+    }
+  }
+
+
+
+   /* Portatil pagina inicio 1024 */ 
+
+   @media (min-width: 1024px) {
+
+    .menu-horizontal{
+
+font-size: 25px;
+
+
+    }
+
+
+
+    h1{
+font-size: 40px;
+
+    }
+
+    .App{
+      position: absolute;
+      left: 230px;
+      font-size: 40px;
+    }
+    .Candidatos-1{
+      position: absolute;
+      left: 50px;
+      font-size: 19px;
+    }
+    .Candidatos-2{
+      position: absolute;
+      left: 290px;
+      top: 415px;
+      font-size: 19px;
+    }
+    .Candidatos-3{
+      position: absolute;
+      left: 525px;
+      bottom: 355px;
+      font-size: 19px;
+    }
+    .Candidatos-4{
+      position: absolute;
+      left: 750px;
+      bottom: 355px;
+      font-size: 17px;
+    }
+    .Candidatos-5{
+      position: absolute;
+      left: 50px;
+      font-size: 19px;
+      bottom: 210px;
+    }
+    .Candidatos-6{
+      position: absolute;
+      left: 290px;
+      font-size: 19px;
+      bottom: 210px;
+    }
+    .Candidatos-7{
+      position: absolute;
+      left: 525px;
+      bottom: 210px;
+      font-size: 19px;
+    }
+    .Candidatos-8{
+      position: absolute;
+      left: 750px;
+      bottom: 210px;
+      font-size: 19px;
+    }
+  }  
+
+
+
+  /* Portatil pagina inicio 1440 */ 
+
+  @media (min-width: 1024px) {
+
+    .menu-horizontal{
+
+font-size: 35px;
+
+
+    }
+
+    h1{
+font-size: 50px;
+
+    }
+
+    .App{
+      position: absolute;
+      left: 300px;
+      font-size: 50px;
+    }
+    .Candidatos-1{
+      position: absolute;
+      left: 50px;
+      font-size: 30px;
+      height: 70px;
+      width:230px;
+    }
+    .Candidatos-2{
+      position: absolute;
+      left: 370px;
+      top: 460px;
+      font-size: 30px;
+      height: 70px;
+      width:230px;
+    }
+    .Candidatos-3{
+      position: absolute;
+      left: 700px;
+      bottom: 410px;
+      font-size: 30px;
+      height: 70px;
+      width:230px;
+    }
+    .Candidatos-4{
+      position: absolute;
+      left: 1025px;
+      bottom: 410px;
+      font-size: 30px;
+      height: 70px;
+      width:230px;
+    }
+    .Candidatos-5{
+      position: absolute;
+      left: 50px;
+      font-size: 30px;
+      bottom: 210px;
+      height: 70px;
+      width:230px;
+    }
+    .Candidatos-6{
+      position: absolute;
+      left: 370px;
+      font-size: 30px;
+      bottom: 210px;
+      height: 70px;
+      width:230px;
+    }
+    .Candidatos-7{
+      position: absolute;
+      left: 700px;
+      bottom: 210px;
+      font-size: 30px;
+      height: 70px;
+      width:230px;
+    }
+    .Candidatos-8{
+      position: absolute;
+      left: 1025px;
+      bottom: 210px;
+      font-size: 30px;
+      height: 70px;
+      width:230px;
+    }
+  }
+
+
+
+
+
+
+  
