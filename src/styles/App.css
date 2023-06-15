@@ -113,10 +113,68 @@ h1 {
   bottom: 2%;
   left: 55px;
   text-align: center;
+}
+
+.Candidatos-5{
+
+  width: 160px; /* Ancho del elemento */
+  height: 30px; /* Altura del elemento */
+  padding: 10px; /* Relleno interno del contenido */
+  border: 1px solid #347fd5; /* Borde del elemento */
+  margin: 30px; /* Margen externo alrededor del elemento */
+  font-size: 15px;
+  position: absolute;
+  bottom: -10%;
+  left: 55px;
+  text-align: center;
 
 
 }
+.Candidatos-6{
 
+  width: 160px; /* Ancho del elemento */
+  height: 30px; /* Altura del elemento */
+  padding: 10px; /* Relleno interno del contenido */
+  border: 1px solid #347fd5; /* Borde del elemento */
+  margin: 30px; /* Margen externo alrededor del elemento */
+  font-size: 15px;
+  position: absolute;
+  bottom: -22%;
+  left: 55px;
+  text-align: center;
+
+
+}
+.Candidatos-7{
+
+  width: 160px; /* Ancho del elemento */
+  height: 30px; /* Altura del elemento */
+  padding: 10px; /* Relleno interno del contenido */
+  border: 1px solid #347fd5; /* Borde del elemento */
+  margin: 30px; /* Margen externo alrededor del elemento */
+  font-size: 15px;
+  position: absolute;
+  bottom: -35%;
+  left: 55px;
+  text-align: center;
+
+
+}
+.Candidatos-8{
+
+  width: 160px; /* Ancho del elemento */
+  height: 30px; /* Altura del elemento */
+  padding: 10px; /* Relleno interno del contenido */
+  border: 1px solid #347fd5; /* Borde del elemento */
+  margin: 30px; /* Margen externo alrededor del elemento */
+  font-size: 15px;
+  position: absolute;
+  bottom: -47%;
+  left: 55px;
+  text-align: center;
+
+
+}
 
 /*section2 */
 
@@ -204,10 +262,15 @@ text-align: center;
 
 
 
+      /* Texto */ 
+
       #bitcoin{
- position: absolute;
- top: 150%;
-
-
+        position: absolute;
+        top: 150%;
 
       }
+
+    
+
+      
+

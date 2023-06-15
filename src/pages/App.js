@@ -39,6 +39,10 @@ function HomePage() {
               
             <li className="Candidatos-3">Xavier Hervas</li>
             <li className="Candidatos-4">Fernando Villaviciencio</li>
+            <li className="Candidatos-5">Daniel Noboa</li>
+            <li className="Candidatos-6">Bolívar Armijos</li>
+            <li className="Candidatos-7">Yaku Pérez</li>
+            <li className="Candidatos-8">Luisa González</li>
           </ul>
         </div>
       </main>

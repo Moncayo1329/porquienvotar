@@ -4,12 +4,11 @@ import { Link } from 'react-router-dom';
 
 
 
+
 function Nosotros() {
     return (
      
         <div>
-        <h1>Jan T. Topic</h1>
-  
         <header>
           <div>
             <ul className="menu-horizontal">
