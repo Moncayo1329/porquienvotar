@@ -29,7 +29,12 @@ function Nosotros() {
 
 
         <div>
-          <img src={imagen} alt='descripcion' />
+          <img src={imagen} alt='descripcion' /> 
+        </div>
+
+        <div>
+       <p>hello</p>
+
         </div>
         
 

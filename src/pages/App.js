@@ -37,12 +37,45 @@ function HomePage() {
              <Link to="/OttoSonnenholzner"><span style={{ color: 'black' }}> Otto Sonnenholzner</span></Link>
               </li>
               
-            <li className="Candidatos-3">Xavier Hervas</li>
-            <li className="Candidatos-4">Fernando Villaviciencio</li>
-            <li className="Candidatos-5">Daniel Noboa</li>
-            <li className="Candidatos-6">Bolívar Armijos</li>
-            <li className="Candidatos-7">Yaku Pérez</li>
-            <li className="Candidatos-8">Luisa González</li>
+            
+             <li className="Candidatos-3">
+             <Link to="/XavierHervas"><span style={{ color: 'black' }}> Xavier Hervas</span></Link>
+              </li>
+            
+
+
+            <li className="Candidatos-4">
+              
+            <Link to="/FernandoVillaviciencio"><span style={{ color: 'black' }}>Fernando Villaviciencio </span></Link>
+              
+              </li>
+
+            <li className="Candidatos-5">
+              
+            <Link to="/DanielNoboa"><span style={{ color: 'black' }}>Daniel Noboa</span></Link>
+              
+              </li>
+
+            <li className="Candidatos-6">
+            <Link to="/BolivarArmijos"><span style={{ color: 'black' }}>Bolívar Armijos</span></Link>
+              
+              </li>
+
+
+            <li className="Candidatos-7">
+              
+            <Link to="/YakuPerez"><span style={{ color: 'black' }}>Yaku Pérez</span></Link>
+              
+              
+              </li>
+
+
+            <li className="Candidatos-8">
+            <Link to="/LuisaGonzalez"><span style={{ color: 'black' }}>Luisa González</span></Link>
+            
+            </li>
+
+
           </ul>
         </div>
       </main>

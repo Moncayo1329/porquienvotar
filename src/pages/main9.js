@@ -1,10 +1,10 @@
 import React from 'react';
 import { Link } from 'react-router-dom'; 
 
-function YakuPerez() {
+function LuisaGonzalez() {
     return (
       <div>
-        <h1 className="titulo">Yaku Pérez</h1>
+        <h1 className="titulo">Luisa Gonzalez</h1>
         <h2>Propuestas</h2>
   
         <header>
@@ -44,4 +44,4 @@ function YakuPerez() {
     );
   }
   
-  export default YakuPerez;
+  export default LuisaGonzalez;
