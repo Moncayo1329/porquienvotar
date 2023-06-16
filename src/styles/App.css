@@ -297,7 +297,7 @@ text-align: center;
         /* mobil M pagina inicial */ 
 
 
-       @media (min-width: 375px) {
+       @media (max-width: 375px) {
         .Candidatos-1{
           position: absolute;
           left: 84px;
@@ -337,7 +337,7 @@ text-align: center;
 
 
 
-      @media (min-width: 425px) {
+      @media (max-width: 425px) {
         .Candidatos-1{
           position: absolute;
           left: 100px;
@@ -375,7 +375,7 @@ text-align: center;
 
   /* mobil M pagina tablet */ 
 
-  @media (min-width: 768px) {
+  @media (max-width: 768px) {
 
     .App{
       position: absolute;
@@ -425,7 +425,7 @@ text-align: center;
 
    /* Portatil pagina inicio 1024 */ 
 
-   @media (min-width: 1024px) {
+   @media (max-width: 1024px) {
 
     .menu-horizontal{
 
@@ -499,7 +499,7 @@ font-size: 40px;
 
   /* Portatil pagina inicio 1440 */ 
 
-  @media (min-width: 1024px) {
+  @media (max-width: 1440px) {
 
     .menu-horizontal{
 
