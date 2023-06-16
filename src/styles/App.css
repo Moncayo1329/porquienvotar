@@ -72,14 +72,14 @@ h1 {
 
 .Candidatos-1{
 
-  width: 160px; /* Ancho del elemento */
-  height: 30px; /* Altura del elemento */
+  width: 200px; /* Ancho del elemento */
+  height: 20px; /* Altura del elemento */
   padding: 10px; /* Relleno interno del contenido */
   border: 1px solid #347fd5; /* Borde del elemento */
   margin: 30px; /* Margen externo alrededor del elemento */
-  position: absolute;
-  bottom: 40%;
-  left: 55px;
+  position: relative;
+  top: 270px;
+  left: 30px;
   text-align: center;
 
 
@@ -87,14 +87,14 @@ h1 {
 
 
 .Candidatos-2{
-  width: 160px; /* Ancho del elemento */
-  height: 30px; /* Altura del elemento */
+  width: 200px; /* Ancho del elemento */
+  height: 20px; /* Altura del elemento */
   padding: 10px; /* Relleno interno del contenido */
   border: 1px solid #347fd5; /* Borde del elemento */
   margin: 30px; /* Margen externo alrededor del elemento */
-  position: absolute;
-  bottom: 28%;
-  left: 55px;
+  position: relative;
+  top: 275px;
+  left: 30px;
   text-align: center;
 
 
@@ -104,14 +104,14 @@ h1 {
 
 .Candidatos-3{
 
-  width: 160px; /* Ancho del elemento */
-  height: 30px; /* Altura del elemento */
+  width: 200px; /* Ancho del elemento */
+  height: 20px; /* Altura del elemento */
   padding: 10px; /* Relleno interno del contenido */
   border: 1px solid #347fd5; /* Borde del elemento */
   margin: 30px; /* Margen externo alrededor del elemento */
-  position: absolute;
-  bottom: 15%;
-  left: 55px;
+  position: relative ;
+  top: 270px;
+  left: 30px;
   text-align: center;
 
 }
@@ -119,74 +119,74 @@ h1 {
 
 .Candidatos-4{
 
-  width: 160px; /* Ancho del elemento */
-  height: 30px; /* Altura del elemento */
+  width: 200px; /* Ancho del elemento */
+  height: 20px; /* Altura del elemento */
   padding: 10px; /* Relleno interno del contenido */
   border: 1px solid #347fd5; /* Borde del elemento */
   margin: 30px; /* Margen externo alrededor del elemento */
   font-size: 15px;
-  position: absolute;
-  bottom: 2%;
-  left: 55px;
+  position: relative ;
+  top: 260px;
+  left: 30px;
   text-align: center;
 }
 
 .Candidatos-5{
 
-  width: 160px; /* Ancho del elemento */
-  height: 30px; /* Altura del elemento */
+  width: 200px; /* Ancho del elemento */
+  height: 20px; /* Altura del elemento */
   padding: 10px; /* Relleno interno del contenido */
   border: 1px solid #347fd5; /* Borde del elemento */
   margin: 30px; /* Margen externo alrededor del elemento */
   font-size: 15px;
-  position: absolute;
-  bottom: -10%;
-  left: 55px;
+  position: relative ;
+  top: 250px;
+  left: 30px;
   text-align: center;
 
 
 }
 .Candidatos-6{
 
-  width: 160px; /* Ancho del elemento */
-  height: 30px; /* Altura del elemento */
+  width: 200px; /* Ancho del elemento */
+  height: 20px; /* Altura del elemento */
   padding: 10px; /* Relleno interno del contenido */
   border: 1px solid #347fd5; /* Borde del elemento */
   margin: 30px; /* Margen externo alrededor del elemento */
   font-size: 15px;
-  position: absolute;
-  bottom: -22%;
-  left: 55px;
+  position: relative ;
+  top: 245px;
+  left: 30px;
   text-align: center;
 
 
 }
 .Candidatos-7{
 
-  width: 160px; /* Ancho del elemento */
-  height: 30px; /* Altura del elemento */
+  width: 200px; /* Ancho del elemento */
+  height: 20px; /* Altura del elemento */
   padding: 10px; /* Relleno interno del contenido */
   border: 1px solid #347fd5; /* Borde del elemento */
   margin: 30px; /* Margen externo alrededor del elemento */
   font-size: 15px;
-  position: absolute;
-  bottom: -33%;
-  left: 55px;
+  position: relative ;
+  top: 247px;
+  left: 30px;
   text-align: center;
 
 
 }
 .Candidatos-8{
 
-  width: 160px; /* Ancho del elemento */
-  height: 30px; /* Altura del elemento */
+  width: 200px; /* Ancho del elemento */
+  height: 20px; /* Altura del elemento */
   padding: 10px; /* Relleno interno del contenido */
   border: 1px solid #347fd5; /* Borde del elemento */
   margin: 28px; /* Margen externo alrededor del elemento */
   font-size: 15px;
-  position: absolute;
-  bottom: -45%;
-  left: 55px;
+  position: relative ;
+  top: 250px;
+  left: 30px;
   text-align: center;
 
 
@@ -303,11 +303,11 @@ right: 10px;
   }
 
   .Candidatos-1{
-    position: absolute;
+    position: relative;
     left: 84px;
   }
   .Candidatos-2{
-    position: absolute;
+    position: relative;
     left: 84px;
   }
   .Candidatos-3{
