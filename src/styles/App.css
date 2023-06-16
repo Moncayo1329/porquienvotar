@@ -93,7 +93,7 @@ h1 {
   border: 1px solid #347fd5; /* Borde del elemento */
   margin: 30px; /* Margen externo alrededor del elemento */
   position: relative;
-  top: 275px;
+  top: 273px;
   left: 30px;
   text-align: center;
 
@@ -126,7 +126,7 @@ h1 {
   margin: 30px; /* Margen externo alrededor del elemento */
   font-size: 15px;
   position: relative ;
-  top: 260px;
+  top: 265px;
   left: 30px;
   text-align: center;
 }
@@ -140,7 +140,7 @@ h1 {
   margin: 30px; /* Margen externo alrededor del elemento */
   font-size: 15px;
   position: relative ;
-  top: 250px;
+  top: 260px;
   left: 30px;
   text-align: center;
 
@@ -155,7 +155,7 @@ h1 {
   margin: 30px; /* Margen externo alrededor del elemento */
   font-size: 15px;
   position: relative ;
-  top: 245px;
+  top: 255px;
   left: 30px;
   text-align: center;
 
@@ -170,7 +170,7 @@ h1 {
   margin: 30px; /* Margen externo alrededor del elemento */
   font-size: 15px;
   position: relative ;
-  top: 247px;
+  top: 250px;
   left: 30px;
   text-align: center;
 
@@ -185,7 +185,7 @@ h1 {
   margin: 28px; /* Margen externo alrededor del elemento */
   font-size: 15px;
   position: relative ;
-  top: 250px;
+  top: 245px;
   left: 30px;
   text-align: center;
 
@@ -304,35 +304,35 @@ right: 10px;
 
   .Candidatos-1{
     position: relative;
-    left: 84px;
+    left: 55px;
   }
   .Candidatos-2{
     position: relative;
-    left: 84px;
+    left: 55px;
   }
   .Candidatos-3{
-    position: absolute;
-    left: 84px;
+    position: relative;
+    left: 55px;
   }
   .Candidatos-4{
-    position: absolute;
-    left: 84px;
+    position: relative;
+    left: 55px;
   }
   .Candidatos-5{
-    position: absolute;
-    left: 84px;
+    position: relative;
+    left: 55px;
   }
   .Candidatos-6{
-    position: absolute;
-    left: 84px;
+    position: relative;
+    left: 55px;
   }
   .Candidatos-7{
-    position: absolute;
-    left: 84px;
+    position: relative;
+    left: 55px;
   }
   .Candidatos-8{
-    position: absolute;
-    left: 84px;
+    position: relative;
+    left: 55px;
   }
 }
 
