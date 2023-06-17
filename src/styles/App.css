@@ -26,9 +26,9 @@ img{
   text-align: center;
   color: #444C4E;
   position: absolute;
-  bottom: 73%;
+  bottom: 80%;
   font-size: 25px;
-  left: 40px;
+  left: 50px;
 }
 
 
@@ -42,6 +42,7 @@ img{
   padding: 0;
 }
 
+
 .menu-horizontal li {
   display: inline-block;
 }
@@ -51,6 +52,7 @@ img{
   padding: 10px 15px;
   text-decoration: none;
   color: #444C4E;
+  
 }
 
 
@@ -58,7 +60,7 @@ img{
 
 h1 {
   position: absolute;
-  bottom: 58%;
+  bottom: 65%;
   left: 20px;
   color: #444C4E;
 }
@@ -81,6 +83,7 @@ h1 {
   top: 250px;
   left: 30px;
   text-align: center;
+
 
 
 }
@@ -175,9 +178,9 @@ h1 {
   text-align: center;
 
 
+
 }
 .Candidatos-8{
-
   width: 200px; /* Ancho del elemento */
   height: 20px; /* Altura del elemento */
   padding: 10px; /* Relleno interno del contenido */
@@ -188,7 +191,6 @@ h1 {
   top: 245px;
   left: 30px;
   text-align: center;
-
 
 }
 
@@ -287,164 +289,260 @@ text-align: center;
       }
 
     
-
-      
-
- /* pagina inicial mobile */
-
- @media screen and (min-width: 375px) {
-
-  .App{
+      @media   screen and (min-width: 375px) and (max-width: 424px) {
+     
+.App{
+position: absolute;
+left: 65px;
 font-size: 30px;
-right: 10px;
-
-
-
-  }
-
-  .Candidatos-1{
-    position: relative;
-    left: 55px;
-  }
-  .Candidatos-2{
-    position: relative;
-    left: 55px;
-  }
-  .Candidatos-3{
-    position: relative;
-    left: 55px;
-  }
-  .Candidatos-4{
-    position: relative;
-    left: 55px;
-  }
-  .Candidatos-5{
-    position: relative;
-    left: 55px;
-  }
-  .Candidatos-6{
-    position: relative;
-    left: 55px;
-  }
-  .Candidatos-7{
-    position: relative;
-    left: 55px;
-  }
-  .Candidatos-8{
-    position: relative;
-    left: 55px;
-  }
 } 
 
-
-
-/* pagina inicial mobile */
-
-@media screen and (min-width: 425px) {
-
-  .App{
-font-size: 30px;
-right: 10px;
-
-
-
-  }
-
-  .Candidatos-1{
-    position: relative;
-    left: 75px;
-  }
-  .Candidatos-2{
-    position: relative;
-    left: 75px;
-  }
-  .Candidatos-3{
-    position: relative;
-    left: 75px;
-  }
-  .Candidatos-4{
-    position: relative;
-    left: 75px;
-  }
-  .Candidatos-5{
-    position: relative;
-    left: 75px;
-  }
-  .Candidatos-6{
-    position: relative;
-    left: 75px;
-  }
-  .Candidatos-7{
-    position: relative;
-    left: 75px;
-  }
-  .Candidatos-8{
-    position: relative;
-    left: 75px;
-  }
-}
-
-/* pagina inicial tablet */
-
-@media screen and (min-width: 768px) {
-
-  .App{
-font-size: 35px;
-right: 10px;
-top: 90px;
-  }
-
-
 h1{
-top: 190px;
-font-size: 30px;
 
+position: absolute;
+top: 200px;
 
 
 }
 
-  .Candidatos-1{
-    position: relative;
-    left: 75px;
-    top: 192px;
-  }
-  .Candidatos-2{
-    position: relative;
-    left: 420px;
-    top: 120px;
-  }
-  .Candidatos-3{
-    position: relative;
-    left: 75px;
-    top:130px;
-  }
-  .Candidatos-4{
-    position: relative;
-    left: 420px;
-    top:58px;
-  }
-  .Candidatos-5{
-    position: relative;
-    left: 75px;
-    top:65px;
-  }
-  .Candidatos-6{
-    position: relative;
-    top:-5px;
-    left: 420px;
-  }
-  .Candidatos-7{
-    position: relative;
-    left: 75px;
-    top:5px;
-  }
-  .Candidatos-8{
-    position: relative;
-    left: 420px;
-    top:-68px;
-  }
-}
+  
 
+        .Candidatos-1{
+          position: relative;
+          left: 55px;
+        }
+        .Candidatos-2{
+          position: relative;
+          left: 55px;
+        }
+        .Candidatos-3{
+          position: relative;
+          left: 55px;
+        }
+        .Candidatos-4{
+          position: relative;
+          left: 55px;
+        }
+        .Candidatos-5{
+          position: relative;
+          left: 55px;
+        }
+        .Candidatos-6{
+          position: relative;
+          left: 55px;
+        }
+        .Candidatos-7{
+          position: relative;
+          left: 55px;
+        }
+        .Candidatos-8{
+          position: relative;
+          left: 55px;
+        }
+      } 
+      
+
+  
+      @media    screen and (min-width: 425px) and (max-width: 767px) {
+     
+        .App{
+        position: absolute;
+        left: 70px;
+        font-size: 35px;
+        bottom: 500px;
+        } 
+        
+        h1{
+        
+        position: absolute;
+        top: 200px;
+        
+        
+        }
+        
+          
+        
+                .Candidatos-1{
+                  position: relative;
+                  left: 70px;
+                }
+                .Candidatos-2{
+                  position: relative;
+                  left: 70px;
+                }
+                .Candidatos-3{
+                  position: relative;
+                  left: 70px;
+                }
+                .Candidatos-4{
+                  position: relative;
+                  left: 70px;
+                }
+                .Candidatos-5{
+                  position: relative;
+                  left: 70px;
+                }
+                .Candidatos-6{
+                  position: relative;
+                  left: 70px;
+                }
+                .Candidatos-7{
+                  position: relative;
+                  left: 70px;
+                }
+                .Candidatos-8{
+                  position: relative;
+                  left: 70px;
+                }
+              } 
+              
+      
+      /* Estilos específicos para tablets */
+      
+              @media only screen and (min-width: 768px) and (max-width: 1023px) {
+
+
+                .App{
+                  position: absolute;
+                  left: 240px;
+                  font-size: 35px;
+                  bottom: 500px;
+                  } 
+                  
+                  h1{
+                  
+                  position: absolute;
+                  top: 200px;
+                  left: 50px;
+                  
+                  
+                  }
+                  
+                    
+                  
+                  .Candidatos-1{
+                    position: relative;
+                    left: 75px;
+                    top: 192px;
+                  }
+                          .Candidatos-2{
+                            position: relative;
+                            left: 420px;
+                            top: 120px;
+                          }
+                          .Candidatos-3{
+                            position: relative;
+                            left: 75px;
+                            top:130px;
+                          }
+                          .Candidatos-4{
+                            position: relative;
+                            left: 420px;
+                            top:58px;
+                          }
+                          .Candidatos-5{
+                            position: relative;
+                            left: 75px;
+                            top:65px;
+                          }
+                          .Candidatos-6{
+                            position: relative;
+                            top:-5px;
+                            left: 420px;
+                          }
+                          .Candidatos-7{
+                            position: relative;
+                            left: 75px;
+                            top:5px;
+                          }
+                          .Candidatos-8{
+                            position: relative;
+                            left: 420px;
+                            top:-68px;
+                          }
+                        } 
+                        
+                
+/* Estilos para laptops */
+@media only screen and (min-width: 1024px) {
+
+  .App{
+    position: absolute;
+    left: 240px;
+    font-size: 35px;
+    bottom: 500px;
+    } 
+    
+    h1{
+    
+    position: absolute;
+    top: 200px;
+    left: 50px;
+    
+    
+    }
+    
+      
+    
+    .Candidatos-1{
+      position: relative;
+      left: 75px;
+      top: 192px;
+    }
+            .Candidatos-2{
+              position: relative;
+              left: 420px;
+              top: 120px;
+            }
+            .Candidatos-3{
+              position: relative;
+              left: 75px;
+              top:130px;
+            }
+            .Candidatos-4{
+              position: relative;
+              left: 420px;
+              top:58px;
+            }
+            .Candidatos-5{
+              position: relative;
+              left: 75px;
+              top:65px;
+            }
+            .Candidatos-6{
+              position: relative;
+              top:-5px;
+              left: 420px;
+            }
+            .Candidatos-7{
+              position: relative;
+              left: 75px;
+              top:5px;
+            }
+            .Candidatos-8{
+              position: relative;
+              left: 420px;
+              top:-68px;
+            }
+
+
+
+ 
+}    
+
+
+
+
+
+
+                
+              
+    
+   
+    
+      
+
+ 
 
 
 

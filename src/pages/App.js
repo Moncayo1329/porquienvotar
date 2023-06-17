@@ -23,7 +23,7 @@ function HomePage() {
 
       <main>
         <div className="App">
-          <h4>Aprende qué está detrás de tu voto!🗳️</h4>
+          <h4>Aprende qué está <p></p>detrás de tu voto!🗳️</h4>
         </div>
 
         <h1>Candidatos</h1>
