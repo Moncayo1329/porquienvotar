@@ -287,6 +287,95 @@ text-align: center;
         top: 150%;
 
       }
+/* Estilos para computadoras */
+
+@media only screen and (min-width: 1024px) {
+  .App{
+    position: relative;
+    left: 200px;
+    font-size: 30px;
+    bottom: 30px;
+    } 
+    
+    h1{
+    
+    position: absolute;
+    top: 150px;
+    left: 50px;
+    
+    
+    }
+
+
+
+
+
+
+  .Candidatos-1{
+    position: relative;
+    left: 75px;
+    top: 192px;
+  }
+          .Candidatos-2{
+            position: relative;
+            left: 420px;
+            top: 120px;
+          }
+          .Candidatos-3{
+            position: relative;
+            left: 75px;
+            top:130px;
+          }
+          .Candidatos-4{
+            position: relative;
+            left: 420px;
+            top:58px;
+          }
+          .Candidatos-5{
+            position: relative;
+            left: 75px;
+            top:65px;
+          }
+          .Candidatos-6{
+            position: relative;
+            top:-5px;
+            left: 420px;
+          }
+          .Candidatos-7{
+            position: relative;
+            left: 75px;
+            top:5px;
+          }
+          .Candidatos-8{
+            position: relative;
+            left: 420px;
+            top:-68px;
+          }
+        } 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Estilos para dispositivos móviles */
     
       @media only screen and  (min-width: 321px) and (max-width: 767px) {
@@ -409,71 +498,7 @@ text-align: center;
               } 
        
 
-               /* Estilos para computadoras */
-
-              @media only screen and (min-width: 1024px) {
-                .App{
-                  position: absolute;
-                  left: 600px;
-                  font-size: 30px;
-                  bottom: 600px;
-                  } 
-                  
-                  h1{
-                  
-                  position: absolute;
-                  top: 150px;
-                  left: 50px;
-                  
-                  
-                  }
-
-
-
-
-
-
-                .Candidatos-1{
-                  position: relative;
-                  left: 75px;
-                  top: 192px;
-                }
-                        .Candidatos-2{
-                          position: relative;
-                          left: 420px;
-                          top: 120px;
-                        }
-                        .Candidatos-3{
-                          position: relative;
-                          left: 75px;
-                          top:130px;
-                        }
-                        .Candidatos-4{
-                          position: relative;
-                          left: 420px;
-                          top:58px;
-                        }
-                        .Candidatos-5{
-                          position: relative;
-                          left: 75px;
-                          top:65px;
-                        }
-                        .Candidatos-6{
-                          position: relative;
-                          top:-5px;
-                          left: 420px;
-                        }
-                        .Candidatos-7{
-                          position: relative;
-                          left: 75px;
-                          top:5px;
-                        }
-                        .Candidatos-8{
-                          position: relative;
-                          left: 420px;
-                          top:-68px;
-                        }
-                      } 
+               
 
 
 
