@@ -8,6 +8,8 @@ const [JanTTopicContent, setJanTTopicContent] = useState("");
   
   
   useEffect(() => {
+   
+    
     import("../markdown/article.md")
       .then((res) => {
         return fetch(res.default);
@@ -26,7 +28,6 @@ const [JanTTopicContent, setJanTTopicContent] = useState("");
 
   return (
     <div>
-      <button onclick="topFunction()">Top</button>
       <h1 className="titulo">Jan T. Topic</h1>
       <h2>Propuestas</h2>
 
@@ -56,11 +57,15 @@ const [JanTTopicContent, setJanTTopicContent] = useState("");
          <a href="#Instituciones"> <span style={{ color: 'black' }}>Instituciones</span></a> 
           
           </li>
-        <li className="propuestas-3">Económico</li>
-          <li className="propuestas-4">
-            Social
+        <li className="propuestas-3">
+        <a href="#Económico"> <span style={{ color: 'black' }}> Económico</span> </a>
           </li>
-          <li className="propuestas-5">Libre de Drogas</li>
+          <li className="propuestas-4">
+          <a href="#Social"> <span style={{ color: 'black' }}>Social</span> </a>
+          </li>
+          <li className="propuestas-5">
+          <a href="#LibredeDrogas"> <span style={{ color: 'black' }}> Libre de Drogas</span> </a>
+            </li>
           <li className="propuestas-6">Educación</li>
           <li className="propuestas-7">Calidad de vida</li>
           <li className="propuestas-8">Vivienda</li>
@@ -87,17 +92,19 @@ const [JanTTopicContent, setJanTTopicContent] = useState("");
         </ul>
       </div>
 
+     
+
       <footer>
         <section id="Seguridad">
        <Markdown>{JanTTopicContent}</Markdown>
         </section>
         <section id="Instituciones">
         </section>
+</footer>
 
+        
+        
 
-
-
-      </footer>
     </div>
   );
 }
