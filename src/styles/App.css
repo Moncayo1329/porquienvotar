@@ -563,12 +563,14 @@ text-align: center;
       #Seguridad{
         position: absolute;
         top: 450%;
+        left:20px ;
         
 
       }
       #Instituciones{
         position: absolute;
         top: 600%;
+        left:15px ;
         
 
       }
