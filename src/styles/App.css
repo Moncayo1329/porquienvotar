@@ -226,8 +226,8 @@ h2{
 
 
 .propuestas-1{
-width: 160px; /* Ancho del elemento */
-height: 30px; /* Altura del elemento */
+  width: 200px; /* Ancho del elemento */
+  height: 20px; /* Altura del elemento */
 padding: 10px; /* Relleno interno del contenido */
 border: 1px solid #347fd5; /* Borde del elemento */
 margin: 30px; /* Margen externo alrededor del elemento */
@@ -239,8 +239,8 @@ text-align: center;
 }
 
 .propuestas-2{
-  width: 160px; /* Ancho del elemento */
-  height: 30px; /* Altura del elemento */
+  width: 200px; /* Ancho del elemento */
+  height: 20px; /* Altura del elemento */
   padding: 10px; /* Relleno interno del contenido */
   border: 1px solid #347fd5; /* Borde del elemento */
   margin: 30px; /* Margen externo alrededor del elemento */
@@ -253,8 +253,8 @@ text-align: center;
 
 
   .propuestas-3{
-    width: 160px; /* Ancho del elemento */
-    height: 30px; /* Altura del elemento */
+    width: 200px; /* Ancho del elemento */
+    height: 20px; /* Altura del elemento */
     padding: 10px; /* Relleno interno del contenido */
     border: 1px solid #347fd5; /* Borde del elemento */
     margin: 30px; /* Margen externo alrededor del elemento */
@@ -266,302 +266,304 @@ text-align: center;
     }
 
     .propuestas-4{
-      width: 160px; /* Ancho del elemento */
-      height: 30px; /* Altura del elemento */
+      width: 200px; /* Ancho del elemento */
+      height: 20px; /* Altura del elemento */
       padding: 10px; /* Relleno interno del contenido */
       border: 1px solid #347fd5; /* Borde del elemento */
       margin: 30px; /* Margen externo alrededor del elemento */
       position: absolute;
-      bottom: 10%;
+      bottom: 5%;
       left: 55px;
       text-align: center;
       
       }
       .propuestas-5{
-        width: 160px; /* Ancho del elemento */
-        height: 30px; /* Altura del elemento */
+        width: 200px; /* Ancho del elemento */
+         height: 20px; /* Altura del elemento */
         padding: 10px; /* Relleno interno del contenido */
         border: 1px solid #347fd5; /* Borde del elemento */
         margin: 30px; /* Margen externo alrededor del elemento */
         position: absolute;
-        bottom: 0%;
+        bottom: -10%;
         left: 55px;
         text-align: center;
         
         }
         .propuestas-6{
-          width: 160px; /* Ancho del elemento */
-          height: 30px; /* Altura del elemento */
+          width: 200px; /* Ancho del elemento */
+          height: 20px; /* Altura del elemento */
           padding: 10px; /* Relleno interno del contenido */
           border: 1px solid #347fd5; /* Borde del elemento */
           margin: 30px; /* Margen externo alrededor del elemento */
           position: absolute;
-          bottom: -10%;
+          bottom: -25%;
           left: 55px;
           text-align: center;
           
           }
           .propuestas-7{
-            width: 160px; /* Ancho del elemento */
-            height: 30px; /* Altura del elemento */
+            width: 200px; /* Ancho del elemento */
+            height: 20px; /* Altura del elemento */
             padding: 10px; /* Relleno interno del contenido */
             border: 1px solid #347fd5; /* Borde del elemento */
             margin: 30px; /* Margen externo alrededor del elemento */
             position: absolute;
-            bottom: -20%;
+            bottom: -40%;
             left: 55px;
             text-align: center;
             
             }
             .propuestas-8{
-              width: 160px; /* Ancho del elemento */
-              height: 30px; /* Altura del elemento */
+              width: 200px; /* Ancho del elemento */
+              height: 20px; /* Altura del elemento */
               padding: 10px; /* Relleno interno del contenido */
               border: 1px solid #347fd5; /* Borde del elemento */
               margin: 30px; /* Margen externo alrededor del elemento */
               position: absolute;
-              bottom: -30%;
+              bottom: -55%;
               left: 55px;
               text-align: center;
               
               }
               .propuestas-9{
-                width: 160px; /* Ancho del elemento */
-                height: 30px; /* Altura del elemento */
+                width: 200px; /* Ancho del elemento */
+                height: 20px; /* Altura del elemento */
                 padding: 10px; /* Relleno interno del contenido */
                 border: 1px solid #347fd5; /* Borde del elemento */
                 margin: 30px; /* Margen externo alrededor del elemento */
                 position: absolute;
-                bottom: -40%;
+                bottom: -70%;
                 left: 55px;
                 text-align: center;
                 
                 }
                 .propuestas-10{
-                  width: 160px; /* Ancho del elemento */
-                  height: 30px; /* Altura del elemento */
+                  width: 200px; /* Ancho del elemento */
+  height: 20px; /* Altura del elemento */
                   padding: 10px; /* Relleno interno del contenido */
                   border: 1px solid #347fd5; /* Borde del elemento */
                   margin: 30px; /* Margen externo alrededor del elemento */
                   position: absolute;
-                  bottom: -50%;
+                  bottom: -85%;
                   left: 55px;
                   text-align: center;
                   
                   }
                   .propuestas-11{
-                    width: 160px; /* Ancho del elemento */
-                    height: 30px; /* Altura del elemento */
+                    width: 200px; /* Ancho del elemento */
+  height: 20px; /* Altura del elemento */
                     padding: 10px; /* Relleno interno del contenido */
                     border: 1px solid #347fd5; /* Borde del elemento */
                     margin: 30px; /* Margen externo alrededor del elemento */
                     position: absolute;
-                    bottom: -60%;
+                    bottom: -100%;
                     left: 55px;
                     text-align: center;
                     
                     }
                     .propuestas-12{
-                      width: 160px; /* Ancho del elemento */
-                      height: 30px; /* Altura del elemento */
+                      width: 200px; /* Ancho del elemento */
+                      height: 20px; /* Altura del elemento */
                       padding: 10px; /* Relleno interno del contenido */
                       border: 1px solid #347fd5; /* Borde del elemento */
                       margin: 30px; /* Margen externo alrededor del elemento */
                       position: absolute;
-                      bottom: -70%;
+                      bottom: -115%;
                       left: 55px;
                       text-align: center;
                       
                       }
                       .propuestas-13{
-                        width: 160px; /* Ancho del elemento */
-                        height: 30px; /* Altura del elemento */
+                        width: 200px; /* Ancho del elemento */
+                        height: 20px; /* Altura del elemento */
                         padding: 10px; /* Relleno interno del contenido */
                         border: 1px solid #347fd5; /* Borde del elemento */
                         margin: 30px; /* Margen externo alrededor del elemento */
                         position: absolute;
-                        bottom: -80%;
+                        bottom: -130%;
                         left: 55px;
                         text-align: center;
                         
                         }
                         .propuestas-14{
-                          width: 160px; /* Ancho del elemento */
-                          height: 30px; /* Altura del elemento */
+                          width: 200px; /* Ancho del elemento */
+                          height: 20px; /* Altura del elemento */
                           padding: 10px; /* Relleno interno del contenido */
                           border: 1px solid #347fd5; /* Borde del elemento */
                           margin: 30px; /* Margen externo alrededor del elemento */
                           position: absolute;
-                          bottom: -90%;
+                          bottom: -145%;
                           left: 55px;
                           text-align: center;
                           
                           }
                           .propuestas-15{
-                            width: 160px; /* Ancho del elemento */
-                            height: 30px; /* Altura del elemento */
+                            width: 200px; /* Ancho del elemento */
+  height: 20px; /* Altura del elemento */
                             padding: 10px; /* Relleno interno del contenido */
                             border: 1px solid #347fd5; /* Borde del elemento */
                             margin: 30px; /* Margen externo alrededor del elemento */
                             position: absolute;
-                            bottom: -100%;
+                            bottom: -160%;
                             left: 55px;
                             text-align: center;
                             
                             }
                             .propuestas-16{
-                              width: 160px; /* Ancho del elemento */
-                              height: 30px; /* Altura del elemento */
+                              width: 200px; /* Ancho del elemento */
+  height: 20px; /* Altura del elemento */
                               padding: 10px; /* Relleno interno del contenido */
                               border: 1px solid #347fd5; /* Borde del elemento */
                               margin: 30px; /* Margen externo alrededor del elemento */
                               position: absolute;
-                              bottom: -110%;
+                              bottom: -175%;
                               left: 55px;
                               text-align: center;
                               
                               }
                               .propuestas-17{
-                                width: 160px; /* Ancho del elemento */
-                                height: 30px; /* Altura del elemento */
+                                width: 200px; /* Ancho del elemento */
+  height: 20px; /* Altura del elemento */
                                 padding: 10px; /* Relleno interno del contenido */
                                 border: 1px solid #347fd5; /* Borde del elemento */
                                 margin: 30px; /* Margen externo alrededor del elemento */
                                 position: absolute;
-                                bottom: -120%;
+                                bottom: -190%;
                                 left: 55px;
                                 text-align: center;
                                 
                                 }
                                 .propuestas-18{
-                                  width: 160px; /* Ancho del elemento */
-                                  height: 30px; /* Altura del elemento */
+                                  width: 200px; /* Ancho del elemento */
+                                  height: 20px; /* Altura del elemento */
                                   padding: 10px; /* Relleno interno del contenido */
                                   border: 1px solid #347fd5; /* Borde del elemento */
                                   margin: 30px; /* Margen externo alrededor del elemento */
                                   position: absolute;
-                                  bottom: -130%;
+                                  bottom: -205%;
                                   left: 55px;
                                   text-align: center;
                                   
                                   }
                                   .propuestas-19{
-                                    width: 160px; /* Ancho del elemento */
-                                    height: 30px; /* Altura del elemento */
+                                    width: 200px; /* Ancho del elemento */
+                                    height: 20px; /* Altura del elemento */
                                     padding: 10px; /* Relleno interno del contenido */
                                     border: 1px solid #347fd5; /* Borde del elemento */
                                     margin: 30px; /* Margen externo alrededor del elemento */
                                     position: absolute;
-                                    bottom: -140%;
+                                    bottom: -220%;
                                     left: 55px;
                                     text-align: center;
                                     
                                     }
                                     .propuestas-20{
-                                      width: 160px; /* Ancho del elemento */
-                                      height: 30px; /* Altura del elemento */
+                                      width: 200px; /* Ancho del elemento */
+                                      height: 20px; /* Altura del elemento */
                                       padding: 10px; /* Relleno interno del contenido */
                                       border: 1px solid #347fd5; /* Borde del elemento */
                                       margin: 30px; /* Margen externo alrededor del elemento */
                                       position: absolute;
-                                      bottom: -150%;
+                                      bottom: -235%;
                                       left: 55px;
                                       text-align: center;
                                       
                                       }
 
                                       .propuestas-21{
-                                        width: 160px; /* Ancho del elemento */
-                                        height: 30px; /* Altura del elemento */
+                                        width: 200px; /* Ancho del elemento */
+                                        height: 20px; /* Altura del elemento */
                                         padding: 10px; /* Relleno interno del contenido */
                                         border: 1px solid #347fd5; /* Borde del elemento */
                                         margin: 30px; /* Margen externo alrededor del elemento */
                                         position: absolute;
-                                        bottom: -160%;
+                                        bottom: -250%;
                                         left: 55px;
                                         text-align: center;
                                         
                                         }
                                         .propuestas-22{
-                                          width: 160px; /* Ancho del elemento */
-                                          height: 30px; /* Altura del elemento */
+                                          width: 200px; /* Ancho del elemento */
+                                          height: 20px; /* Altura del elemento */
                                           padding: 10px; /* Relleno interno del contenido */
                                           border: 1px solid #347fd5; /* Borde del elemento */
                                           margin: 30px; /* Margen externo alrededor del elemento */
                                           position: absolute;
-                                          bottom: -180%;
+                                          bottom: -265%;
                                           left: 55px;
                                           text-align: center;
                                           
                                           }
                                           .propuestas-23{
-                                            width: 160px; /* Ancho del elemento */
-                                            height: 30px; /* Altura del elemento */
+                                            width: 200px; /* Ancho del elemento */
+                                            height: 20px; /* Altura del elemento */
                                             padding: 10px; /* Relleno interno del contenido */
                                             border: 1px solid #347fd5; /* Borde del elemento */
                                             margin: 30px; /* Margen externo alrededor del elemento */
                                             position: absolute;
-                                            bottom: -190%;
+                                            bottom: -280%;
                                             left: 55px;
                                             text-align: center;
                                             
                                             }
                                             .propuestas-24{
-                                              width: 160px; /* Ancho del elemento */
-                                              height: 30px; /* Altura del elemento */
+                                              width: 200px; /* Ancho del elemento */
+  height: 20px; /* Altura del elemento */
                                               padding: 10px; /* Relleno interno del contenido */
                                               border: 1px solid #347fd5; /* Borde del elemento */
                                               margin: 30px; /* Margen externo alrededor del elemento */
                                               position: absolute;
-                                              bottom: -205%;
+                                              bottom: -295%;
                                               left: 55px;
                                               text-align: center;
                                               
                                               }
                                               .propuestas-25{
-                                                width: 160px; /* Ancho del elemento */
-                                                height: 30px; /* Altura del elemento */
+                                                width: 200px; /* Ancho del elemento */
+                                                height: 20px; /* Altura del elemento */
                                                 padding: 10px; /* Relleno interno del contenido */
                                                 border: 1px solid #347fd5; /* Borde del elemento */
                                                 margin: 30px; /* Margen externo alrededor del elemento */
                                                 position: absolute;
-                                                bottom: -220%;
+                                                bottom: -310%;
                                                 left: 55px;
                                                 text-align: center;
                                                 
                                                 }
                                                 .propuestas-26{
-                                                  width: 160px; /* Ancho del elemento */
-                                                  height: 30px; /* Altura del elemento */
+                                                  width: 200px; /* Ancho del elemento */
+                                                  height: 20px; /* Altura del elemento */
                                                   padding: 10px; /* Relleno interno del contenido */
                                                   border: 1px solid #347fd5; /* Borde del elemento */
                                                   margin: 30px; /* Margen externo alrededor del elemento */
                                                   position: absolute;
-                                                  bottom: -235%;
+                                                  bottom: -325%;
                                                   left: 55px;
                                                   text-align: center;
                                                   
                                                   }
                                                   .propuestas-27{
-                                                    width: 160px; /* Ancho del elemento */
-                                                    height: 30px; /* Altura del elemento */
+                                                    width: 200px; /* Ancho del elemento */
+                                                   height: 20px; /* Altura del elemento */
                                                     padding: 10px; /* Relleno interno del contenido */
                                                     border: 1px solid #347fd5; /* Borde del elemento */
                                                     margin: 30px; /* Margen externo alrededor del elemento */
                                                     position: absolute;
-                                                    bottom: -250%;
+                                                    bottom: -340%;
                                                     left: 55px;
                                                     text-align: center;
                                                     
-                                                    }
+                                                                    }
                                                     
 
 
 
       /* Texto */ 
+      
       #Seguridad{
         position: absolute;
-        top: 350%;
+        top: 450%;
+        
 
       }
 
@@ -569,7 +571,7 @@ text-align: center;
 
       #Instituciones{
         position: absolute;
-        top: 500%;
+        top: 600%;
       }
 
 
