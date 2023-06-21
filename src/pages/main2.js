@@ -67,36 +67,32 @@ function JanTTopic() {
 
       <footer>
         <section id="Seguridad">
-        1. Protección de los derechos y libertades: Sin seguridad, los ciudadanos no son 
+       <p> 1. Protección de los derechos y libertades:<p></p> Sin seguridad, los ciudadanos no son 
 libres para ejercer sus derechos de forma plena, afectando su calidad de vida y 
-participación cívica, vital para el desarrollo democrático. <p></p>
- 
-2. Preservación del orden público: El estado debe mantener y fortalecer el orden para 
+participación cívica, vital para el desarrollo democrático.<p></p></p> 
+
+2. Preservación del orden público:<p></p> El estado debe mantener y fortalecer el orden para 
 prevenir el caos y la violencia en todas sus formas, eso incluye proteger la vida e 
 integridad de los ciudadanos ante todo tipo de amenazas como la delincuencia, el 
 crimen organizado, el terrorismo y otras formas de violencia sistemática. <p></p>
 
-3. Mantenimiento del orden público: Sin cohesión social no existe confianza en el 
+3. Mantenimiento del orden público:<p></p> Sin cohesión social no existe confianza en el 
 Estado y por tanto tampoco en sus instituciones. Buscamos crear un entorno en el 
 que las personas se sientan seguras y protegidas para poder vivir en armonía. <p></p>
 
  
-4.Desarrollo económico: La economía también se cimenta sobre la confianza y el 
+4.Desarrollo económico: <p></p>La economía también se cimenta sobre la confianza y el 
 desarrollo, sobre la seguridad. Los ciudadanos deben sentirse libres y seguros de 
 abrir un negocio, de comerciar con tranquilidad. A mayor escala, si el Estado no 
 garantiza la seguridad, esto también genera efectos en la Inversión Extranjera 
-puesto que pone en peligro a la cadena de producción de cualquier inversionista. <p></p>
+puesto que pone en peligro a la cadena de producción de cualquier inversionista. <p>
 
-5.Defender los derechos humanos: El Estado debe proteger los derechos humanos 
+5.Defender los derechos humanos: <p></p>El Estado debe proteger los derechos humanos 
 de los ciudadanos, incluyendo el derecho a la vida, integridad personal, libertad y 
-seguridad.
+seguridad.</p>
         </section>
         <section id="Instituciones">
 
-        Desde el ejecutivo trabajaremos de cerca con cada una de las funciones del Estado, para 
-contar con los mecanismos que aseguren el desempeño independiente, técnico y eficaz 
-de cada una de las funciones del Estado.  
- 
 Mantendremos  este  estrecho  contacto  además  entre  las  funciones  del  Estado, 
 promoviendo la creación de un Consejo de Estado en el cual se integren, no sólo de 
 manera emergente, sino de manera permanente las cabezas de cada uno de los poderes 
