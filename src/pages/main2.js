@@ -67,7 +67,7 @@ function JanTTopic() {
 
       <footer>
         <section id="Seguridad">
-        1. Protección de los derechos y libertades:<p></p> Sin seguridad, los ciudadanos no son 
+       1. Protección de los derechos y libertades:<p></p> Sin seguridad, los ciudadanos no son 
 libres para ejercer sus derechos <p></p>de forma plena, afectando su calidad de vida y 
 participación cívica, <p></p>vital para el desarrollo democrático.<p></p>
 
@@ -77,7 +77,7 @@ integridad de los ciudadanos ante todo tipo de amenazas<p></p> como la delincuen
 crimen organizado, el terrorismo y otras formas de violencia sistemática. <p></p>
 
 3. Mantenimiento del orden público:<p></p> Sin cohesión social no existe confianza en el 
-Estado y por tanto tampoco<p></p> en sus instituciones. Buscamos crear un entorno en el 
+Estado y por tanto tampoco<p> en sus instituciones.</p> Buscamos crear un entorno en el 
 que las personas se sientan seguras y protegidas para poder vivir en armonía. <p></p>
 
  
@@ -108,13 +108,7 @@ ciudadanía a través de los mecanismos de gobierno electrónico. Las únicas re
 Consejo de Estado que <p></p> tendrán carácter de reservadas serán aquellas que hagan relación 
 a estrategias y cumplimiento de planes en materia de seguridad y lucha contra el crimen 
 organizado.  
- 
-Introduciremos  reformas  en  las  cuales  parea  suprimir  las  ternas  completas  para 
-funcionarios de designación en manos del poder ejecutivo, y se reemplazarán por ternas  
- 
- 
-conformadas en conjunto <p></p>por todos los poderes del Estado, a partir de mecanismos de 
-participación ciudadana abiertos.  
+   
  
 Promoveremos perfiles de mayor nivel e idoneidad para ocupar los más altos cargos de 
 representación de cada entidad de control, promoviendo además la obligatoriedad de que 
