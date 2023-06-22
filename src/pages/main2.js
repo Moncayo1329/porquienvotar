@@ -66,7 +66,9 @@ const [JanTTopicContent, setJanTTopicContent] = useState("");
           <li className="propuestas-5">
           <a href="#LibredeDrogas"> <span style={{ color: 'black' }}> Libre de Drogas 🔫</span> </a>
             </li>
-          <li className="propuestas-6">Educación 🏫</li>
+          <li className="propuestas-6">
+          <a href="#Educación "> <span style={{ color: 'black' }}> Educación 🏫</span></a>
+            </li>
           <li className="propuestas-7">Calidad de vida 👨‍👩‍👦</li>
           <li className="propuestas-8">Vivienda 🏠</li>
           <li className="propuestas-9">Politicas de Género 👩</li>

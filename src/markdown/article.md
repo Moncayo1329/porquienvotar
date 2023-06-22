@@ -112,7 +112,17 @@ Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien
 <hr>
 
 <div id="LibredeDrogas">
-<span style="font-size: 25px;color: #444C4E;">Libre de Drogas</span>
+<span style="font-size: 25px;color:#2d3956;">Libre de Drogas</span>
+</div>
+<br>
+<br>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat sapien vitae elit bibendum, ac placerat sapien interdum. Aliquam iaculis pulvinar odio ut bibendum. Etiam mollis ipsum sollicitudin consequat hendrerit. Suspendisse potenti. Vivamus neque est, hendrerit eget eleifend at, laoreet varius ligula. Curabitur arcu orci, cursus ut erat non, lobortis egestas felis. Proin ullamcorper in quam nec cursus. Fusce eu porta urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec fringilla condimentum odio non fringilla. Pellentesque gravida nisl vitae bibendum sodales.
+
+Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien, sed mattis leo. Cras semper, neque ut feugiat blandit, ligula dui mattis ante, ut posuere neque est eu neque. Donec quis rutrum urna, ut imperdiet augue. In accumsan lacus vel tellus pulvinar, et venenatis mauris sollicitudin. Donec vel metus scelerisque, tincidunt nibh ac, mollis erat. Etiam tempor metus at hendrerit venenatis. Mauris vel orci mauris. Aliquam massa ligula, vulputate ac condimentum at, molestie sit amet tellus.
+
+<div id="Educación">
+<span style="font-size: 25px;color:#2d3956;">Educación</span>
 </div>
 <br>
 <br>
