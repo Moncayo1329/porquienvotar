@@ -45,16 +45,16 @@ function HomePage() {
 			<main>
 				<div className="App">
 					<div class="container mt-5 pb-5">
-						<h1 className="text-center">
+						<h1 className="text-center" style={{ color: '#46526f' }}>
 							Aprende qué está <p></p>detrás de tu voto!🗳️
 						</h1>
 
-						<h2 className="mt-5 mb-5 text-align-start fs-1">Candidatos</h2>
+						<h2 className="mt-5 mb-5 text-align-start fs-1" style={{ color: '#46526f' }}>Candidatos</h2>
 
 						<div class="row row-cols-lg-4 row-cols-md-2 row-cols-1 gy-5 gx-3">
 							{candidatos.map(candidato => (
 								<div class="col">
-									<div className="border border-primary p-2 text-center h-100">
+									<div className="border border-primary p-2 text-center h-100" style={{ color: '#46526f' }}>
 										<Link
 											to={`/candidato/${candidato.link}`}
 											className="text-decoration-none text-black fs-6"
