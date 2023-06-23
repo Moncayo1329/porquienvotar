@@ -1,7 +1,30 @@
-import React from 'react';
+import Markdown from 'markdown-to-jsx';
+import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 
 function OttoSonnenholzner() {
+
+  const [OttoSonnenholznerContent, setOttoSonnenholznerContent] = useState("");
+  
+  
+  useEffect(() => {
+   
+    
+    import("../markdown/articledos.md")
+      .then((res) => {
+        return fetch(res.default);
+      })
+      .then((response) => {
+        return response.text();
+      })
+      .then((text) => {
+        setOttoSonnenholznerContent(text);
+      })
+      .catch((err) => {
+        console.log(err);
+      });
+  }, []);
+
   return (
     <div>
       <h1 className="titulo">Otto Sonnenholzner</h1>
@@ -115,6 +138,7 @@ function OttoSonnenholzner() {
 
       <footer>
       <section id="Seguridad">
+      <Markdown>{OttoSonnenholznerContent}</Markdown>
         </section>
         <section id="Instituciones">
 

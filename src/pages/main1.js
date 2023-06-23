@@ -2,12 +2,9 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import imagen from '../assets/imagen3.jpg';
 
-
-
-
-
 function Nosotros() {
     return (
+      
      
         <div>
         <header>

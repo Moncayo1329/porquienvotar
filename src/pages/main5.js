@@ -1,7 +1,35 @@
-import React from 'react';
+import Markdown from 'markdown-to-jsx';
+import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom'; 
 
 function FernandoVillaviciencio() {
+
+  const [FernandoVillaviciencioContent, setFernandoVillaviciencioContent] = useState("");
+  
+  
+  useEffect(() => {
+   
+    
+    import("../markdown/articlecuatro.md")
+      .then((res) => {
+        return fetch(res.default);
+      })
+      .then((response) => {
+        return response.text();
+      })
+      .then((text) => {
+        setFernandoVillaviciencioContent(text);
+      })
+      .catch((err) => {
+        console.log(err);
+      });
+  }, []);
+
+
+
+
+
+
     return (
       <div>
         <h1 className="titulo">Fernando Villaviciencio </h1>
@@ -116,6 +144,7 @@ function FernandoVillaviciencio() {
   
         <footer>
         <section id="Seguridad">
+        <Markdown>{FernandoVillaviciencioContent}</Markdown>
  
         </section>
         <section id="Instituciones">

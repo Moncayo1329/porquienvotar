@@ -1,8 +1,35 @@
 
-import React from 'react';
+import Markdown from 'markdown-to-jsx';
+import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom'; 
 
 function DanielNoboa() {
+
+  const [DanielNoboaContent, setDanielNoboaContent] = useState("");
+  
+  
+  useEffect(() => {
+   
+    
+    import("../markdown/articlecinco.md")
+      .then((res) => {
+        return fetch(res.default);
+      })
+      .then((response) => {
+        return response.text();
+      })
+      .then((text) => {
+        setDanielNoboaContent(text);
+      })
+      .catch((err) => {
+        console.log(err);
+      });
+  }, []);
+
+
+
+
+
     return (
       <div>
         <h1 className="titulo">Daniel Noboa </h1>
@@ -116,6 +143,7 @@ function DanielNoboa() {
   
         <footer>
         <section id="Seguridad">
+        <Markdown>{DanielNoboaContent}</Markdown>
        
         </section>
         <section id="Instituciones">

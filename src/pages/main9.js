@@ -1,7 +1,31 @@
-import React from 'react';
+import Markdown from 'markdown-to-jsx';
+import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom'; 
 
 function LuisaGonzalez() {
+
+  const [LuisaGonzalezContent, setLuisaGonzalezContent] = useState("");
+  
+  
+  useEffect(() => {
+   
+    
+    import("../markdown/articleocho.md")
+      .then((res) => {
+        return fetch(res.default);
+      })
+      .then((response) => {
+        return response.text();
+      })
+      .then((text) => {
+        setLuisaGonzalezContent(text);
+      })
+      .catch((err) => {
+        console.log(err);
+      });
+  }, []);
+
+
     return (
       <div>
         <h1 className="titulo">Luisa Gonzalez</h1>
@@ -115,6 +139,7 @@ function LuisaGonzalez() {
   
         <footer>
         <section id="Seguridad">
+        <Markdown>{LuisaGonzalezContent}</Markdown>
        
         </section>
         <section id="Instituciones">

@@ -1,8 +1,6 @@
 <hr>
 
-<div id="Seguridad">
-<span style="color:#;">Seguridad</span>
-</div>
+
 
 
 <br>

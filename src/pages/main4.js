@@ -1,9 +1,34 @@
-import React from 'react';
+import Markdown from 'markdown-to-jsx';
+import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 
 
 
 function XavierHervas() {
+
+  const [XavierHervasContent, setXavierHervasContent] = useState("");
+  
+  
+  useEffect(() => {
+   
+    
+    import("../markdown/articletres.md")
+      .then((res) => {
+        return fetch(res.default);
+      })
+      .then((response) => {
+        return response.text();
+      })
+      .then((text) => {
+        setXavierHervasContent(text);
+      })
+      .catch((err) => {
+        console.log(err);
+      });
+  }, []);
+
+
+
     return (
       <div>
         <h1 className="titulo">Xavier Hervas</h1>
@@ -117,6 +142,7 @@ function XavierHervas() {
   
         <footer>
         <section id="Seguridad">
+        <Markdown>{XavierHervasContent}</Markdown>
       
         </section>
         <section id="Instituciones">
