@@ -1,5 +1,7 @@
 <br>
-<span style="font-size: 25px;color:#2d3956;">Seguridad 🦺</span>
+<div id="Seguridad">
+<span style="font-size: 25px;color: #2d3956;">Seguridad 🦺</span>
+</div>
 <br>
 <br>
 

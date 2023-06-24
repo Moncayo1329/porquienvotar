@@ -86,8 +86,8 @@ const data = {
 			link: "#Empresa",
 		},
 		{
-			name: "Reforma Tributarias 🎖️",
-			link: "#ReformaTributarias",
+			name: "Reformas Tributarias 🎖️",
+			link: "#ReformasTributarias",
 		},
 		{
 			name: "Turismo 🏞️",

@@ -1,5 +1,5 @@
 const data = {
-	name: "Xavier Hervas",
+	name: "Yaku Perez",
 	proposals: [
 		{
 			name: "Seguridad 🦺",
