@@ -5,45 +5,41 @@
 <br>
 <br>
 
+1. Ecuatorianos ya ganamos una guerra, podemos ganar otra. Y para eso dotaremos 
+a las FFAA de los recursos que necesitan y de una vía expedita para que puedan 
+comprar el armamento y tecnología que necesitan ahora. PROTEGEREMOS a los 
+policías de una manera especial y a los militares. Nada de pensar en derechos 
+humanos de los criminales si ellos han decidido tomar el camino de la violencia. 
+Estamos en guerra y veremos los mecanismos para que la policía y FFAA puedan 
+operar con la debida diligencia. 
 
-1. • Protección de los derechos y libertades:
+2. Triplicación de miembros de Unidades Especiales. 
+3. Quintuplicar el número de agentes en capacidad de infiltrarse en organizaciones 
+criminales. 
+4. Compra de equipamiento de escucha de conversaciones. 
+5. Compra de equipamiento de aniquilación de drones. 
+6. Creación del CERT Ecuador con tecnología de Israel. 
+7. Cada  soldado  y  policía  que  haya  sufrido  ataques  por  la  delincuencia  será 
+recompensado con becas para sus hijos y sobrinos directos además de la adecuada 
+rehabilitación física y psicológica.  
+8. Compra de helicópteros de apoyo para policía. 
 
-Sin seguridad, los ciudadanos no son libres <br>para ejercer sus derechos de forma plena, afectando su calidad de vida<br> y participación cívica, vital para el desarrollo democrático. <br><br>
-
-
-2. • Preservación del orden público:
-
-El estado debe mantener y fortalecer el orden para prevenir el caos y la violencia en todas sus formas, eso incluye proteger la vida<br>  e integridad de los ciudadanos ante todo tipo de amenazas como la delincuencia, el crimen organizado,<br>  el terrorismo y otras formas de violencia sistemática. <br><br>
-
-3. • Mantenimiento del orden público:
-
-Sin cohesión social no existe confianza en el Estado y por tanto tampoco en sus instituciones.<br>  Buscamos crear un entorno en el que las personas se sientan seguras y protegidas para poder vivir en armonía. <br><br>
-
-4. • Desarrollo económico:
-
-La economía también 
-se cimenta sobre la confianza y el desarrollo, sobre la seguridad.
-
- Los ciudadanos deben sentirse libres y seguros de abrir un negocio, de comerciar con tranquilidad.
-
-A mayor escala, 
-
- si el Estado no garantiza la seguridad, esto 
-
- también genera efectos en la inversión 
-
- extranjera puesto que pone en peligro a
-
-  la cadena de producción de cualquier inversionista. <br><br>
+9. Cada UPC tendrá al menos dos drones de vigilancia. 
+10.  Flotilla de aviones de caza ligeros para vigilancia naval, interdicción naval. Base 
+Tachina y Galápagos.  
+11.  Flotilla de aviones de vigilancia terrestre, apoyo terrestre cercano, eliminación 
+de aeronaves comerciales con contrabando, a estacionarse en Santa Rosa, Tena, 
+Quito y Guayaquil.  
+12.  Centro de Reclusión Definitiva Y Confinamiento Punitivo. Cárcel de máxima 
+Seguridad en Palmira o Zona de Montaña de difícil acceso.  
+13.  Nuevo armamento para policía, y fuerzas armadas.  
+14.  Nuevo equipamiento táctico para fuerzas armadas.  
+15.  50 vehículos blindados para combate urbano.  
+16.  Participación de las Juntas Parroquiales Rurales en la solución del problema: 
+planificación de vigilancia y barrido, casa por casa.
 
 
-5. • Defender los derechos humanos:
 
-El Estado debe proteger los derechos humanos de 
-
-los ciudadanos, incluyendo el derecho a la vida, 
-
-integridad personal , libertad y seguridad.
 <br>
 <br>
 <br>
@@ -54,15 +50,54 @@ integridad personal , libertad y seguridad.
 
 <hr>
 
-<div id="Instituciones ">
-<span style="font-size: 25px;color: #2d3956;">Instituciones 🏛️</span>
+<div id="Disuación  ">
+<span style="font-size: 25px;color: #2d3956;">Disuación 🥊</span>
 </div>
 <br>
-Se propone la creación de un Consejo de Estado que integre de manera permanente a los líderes de los poderes del <br>Estado para tomar decisiones conjuntas y dar seguimiento a las responsabilidades del Estado.<br> El Palacio de Carondelet se convertirá en el centro de este ejercicio continuo de seguimiento,<br> y las reuniones del Consejo de Estado serán accesibles al público a través de mecanismos de gobierno electrónico.
 
-Se busca promover perfiles más capacitados y adecuados para ocupar los cargos de representación en las entidades de control,<br> asegurando que solo los servidores de carrera, con alto desempeño y honradez comprobada, puedan ocupar puestos de decisión institucionales.<br> Además, se propone una campaña de transparencia para revelar la situación actual de los procesos de control, eliminando trámites caducados <br>y agilizando las causas activas.
+1. Toque de queda, hasta la recuperación de ciertos niveles mínimos de seguridad.  
+2. Barrido de seguridad; las FFAA buscarán armas dentro de potenciales áreas de 
+presencia de mafias o pandillas.  
+3. Victimas trampas: personal entrenado acompañará a ciertas rutas de buses, en 
+ciertos locales comerciales, o fingiendo ser usuarios de transporte, para capturar 
+a criminales.  
+4. Patrullaje, de FFAA acompañadas de drones, policía montada y acompañada de 
+drones, y comunidades organizadas. Estudiaremos la posibilidad de entrenar y 
+armar a las policías metropolitanas para el efecto.  
+5. Redes de vigilancia ciudadana, Taxis, tenderos, vendedores ambulantes, vecinos 
+tendrán acceso a una línea de teléfono anónima donde denunciarán la presencia 
+de actividades extrañas o personajes nuevos en el barrio. En el sector rural serán 
+las  Juntas  Parroquiales  Rurales  las  encargadas  de  crear  redes  de  vigilancia 
+ciudadana.  
 
-En relación a las notificaciones de responsabilidades civiles y administrativas, se busca transparentar el proceso,<br> notificando oportunamente las resoluciones y permitiendo que la Contraloría General del Estado pueda acelerar los procesos<br> de las causas más recientes, que representan los mayores perjuicios ocasionados al Estado.
+6. Reporte  de  ciudadanos  extranjeros  en  Ecuador;  todo  ciudadano  extranjero 
+viniendo de un país de conflicto como Perú, Colombia, Venezuela, Caribe, Albania, 
+Ucrania, Rusia, Siria, Líbano, México, Congo, Haití, deberá reportar vía WEB en una 
+plataforma especial cada mes en que actividad económica se encuentra laborando,cuales han sido sus fuentes de ingreso. La falla al llenado de esta información 
+significará en su expulsión del Ecuador.
+
+7. Creación de una Unidad Especializada Adjunta a la Presidencia de la República de 
+Vigilancia y Supervisión Moral de Policía y Fuerzas Armadas. La policía de la policía.  
+8. Todo vehículo de dos, tres y cuatro ruedas deberá tener un GPS incorporado, 
+información que será enviada a la Policía Nacional en tiempo real. Vehículos que 
+se encuentren sin el dispositivo funcional serán decomisados y rematados.  
+9. Conductores de motos deberán portar una placa en el  casco que sea visible y un 
+chaleco con su placa que sirva como identificación. Conductores con placas falsas 
+serán considerados objetivo militar.  
+10.  Importaremos más de  10.000 de cámaras de seguridad de alta gama para 
+entregar a los municipios más violentos. 
+11.  Todo establecimiento que reciba público deberá contar con cámaras, desde 
+tiendas esquineras, hasta centros comerciales. La cantidad de cámaras estará 
+definida por el valor comercial gestionado.  
+12.  Se prohibirá el porte de armas en vehículos de cualquier clase. Salvo para 
+empresas de seguridad. 
+
+13.  Guardias  deberán  seguir  un  curso  de  preparación  en  manejo  de  armas, 
+inteligencia,  defensa  personal.  Se  les  autorizará  la  tenencia  de  armamento 
+disuasivo y de ataque al nivel del que tienen los delincuentes.  
+14.  Se penalizará con 10 años de cárcel a todo ciudadano que provea por cualquier 
+medio de insumos de guerra, inteligencia, armamentos o herramientas a personas 
+recluidas. (Reforma Penal)
 
 <br>
 <br>
@@ -71,14 +106,68 @@ En relación a las notificaciones de responsabilidades civiles y administrativas
 <br>
 
 <hr>
-<div id="Económico">
-<span style="font-size: 25px;color: #2d3956;">Económico 💰</span>
+<div id="Justicia">
+<span style="font-size: 25px;color: #2d3956;">Justicia ⚖️</span>
 </div>
 <br>
 <br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat sapien vitae elit bibendum, ac placerat sapien interdum. Aliquam iaculis pulvinar odio ut bibendum. Etiam mollis ipsum sollicitudin consequat hendrerit. Suspendisse potenti. Vivamus neque est, hendrerit eget eleifend at, laoreet varius ligula. Curabitur arcu orci, cursus ut erat non, lobortis egestas felis. Proin ullamcorper in quam nec cursus. Fusce eu porta urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec fringilla condimentum odio non fringilla. Pellentesque gravida nisl vitae bibendum sodales.
+Se trata de elevar el COSTO de la actividad delincuencial, con un marco legal mucho más severo. 
+Y aquí se necesitan cambios en el marco legal e institucional, por eso necesitamos un Gobierno 
+de Coalición cuyos miembros firmen un Acuerdo Nacional contra la Violencia y el Crimen. 
+Llegaremos a la Asamblea con 2 proyectos de LEY urgentes que la Asamblea si es responsable 
+tendrá que resolver en muy poco tiempo y así aumentar al máximo posible las penas contra los 
+criminales, restituir las capacidades de diseño estratégico de las FFAA y de inteligencia. 
 
-Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien, sed mattis leo. Cras semper, neque ut feugiat blandit, ligula dui mattis ante, ut posuere neque est eu neque. Donec quis rutrum urna, ut imperdiet augue. In accumsan lacus vel tellus pulvinar, et venenatis mauris sollicitudin. Donec vel metus scelerisque, tincidunt nibh ac, mollis erat. Etiam tempor metus at hendrerit venenatis. Mauris vel orci mauris. Aliquam massa ligula, vulputate ac condimentum at, molestie sit amet tellus.
+1. La ley 100- propondrá que los asesinos pasen en cárcel el mismo tiempo que sus 
+victimas les faltaba vivir asumiendo un promedio de vida de 100 años. Si usted mata a una persona de 75 años pasará 25 años en cárcel. Si mata a una persona de 
+50, pasará 50 años en cárcel, si mata o viola a un niño de 10 años, pasará 90 años 
+en cárcel. Si mata a un anciano de 98 igual pasará 25 años en cárcel.
+
+2. Esa ley considerará delios contra el tejido económico y social que puedan ser 
+encausados por un abogado público y no solo por las víctimas. El abigeato, el cobro 
+de vacunas, el robo de vehículos, el asalto a locales comerciales tendrá una pena 
+mínima de 50 años.  
+3. Le Ley considerará dos tipos de sistemas de gestión de las personas privadas de 
+libertad; los potenciales candidatos a rehabilitación, en cárceles adecuadas, donde 
+aprenderán oficios y trabajarán. Y los presos de confinación y reducción definitiva, 
+en condiciones muy severas, con trabajos forzados, en condiciones muy severas.  
+4. Los jueces que liberen criminales que cometan un crimen, pasaran a cumplir la 
+pena del criminal que liberaron más la pena del crimen nuevo cometido por el 
+criminal. 
+5. Los juicios de actividades delictivas serán llevados a cabo en una plataforma 
+pública  por  jueces  anónimos.  Los  datos  de  los  criminales  también  serán 
+anonimizados para evitar que el juez pida soborno o que el criminal amenace al 
+juez. 
+
+6. Expulsaremos a los extranjeros  con antecedentes penales desde la primera 
+semana de mi mandato. Extranjeros que no puedan demostrar un estilo de vida 
+no violento, la no vinculación a mafias no podrá ingresar al país.  
+7. Se procederá a encarcelar a todo comerciante que no sepa explicar el origen lícito 
+de una mercadería. 
+8. Cárcel a aquel ciudadano que no sepa explicar el origen lícito de mercadería 
+almacenado en su domicilio u oficina o bodega comercial. 
+
+9. Un eje será la protección de nuestros niños, para que no estén expuestos a redes 
+de pedofilia, y donde si es necesario impulsaremos una Reforma Constitucional 
+para  implementar  la  pena  de  muerte  a  quienes  violen,  maten  a  niños  y 
+adolescentes o que los sometan a la actividad de la pedofilia y la venta de drogas 
+a los menores. Seremos el primer país en declararse territorio libre de pedofilia y violencia contra los niños. Ninguna marca u organización internacional vinculada 
+con la pedofilia podrán operar en nuestro país.  
+10.  Junto  con  los  operadores  de  telecomunicaciones  implementaremos  un 
+programa de prevención del acoso digital o cyberbullying.  
+11.  Daremos clases en los barrios populares en actividades económicas que el país 
+demanda  como  programación  Java,  programación  Python,  programación  en 
+HTML, robótica, electricidad industrial, cursos de tecnología agrícola, sistemas de 
+refrigeración,  acuicultura.  Esto  para  generar  capacidades  de  generación  de 
+empleo.
+12.  Ayudar a la gente a identificar riesgos de seguridad en su vida diaria y como 
+prevenirla.  
+13.  Clases masivas de defensa personal y Krav Maga para mujeres víctimas de 
+violencia de género y mujeres en su adolescencia. 
+14.  Educación contra la violencia de género. Cada canal de televisión tiene que 
+caerse con una hora diaria de programación en este sentido, Igual la radio.  
+15.  Devolver  a  la  clase  las  doctrinas  de  CIVICA  y  ETICA  junto  con  VALORES 
+CIUDADANOS.
 
 <br>
 <br>
@@ -88,34 +177,64 @@ Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien
 
 <hr>
 
-<div id="Social">
-<span style="font-size: 25px;color: #2d3956;">Social 🚶‍♂️</span>
-</div>
-<br>
-<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat sapien vitae elit bibendum, ac placerat sapien interdum. Aliquam iaculis pulvinar odio ut bibendum. Etiam mollis ipsum sollicitudin consequat hendrerit. Suspendisse potenti. Vivamus neque est, hendrerit eget eleifend at, laoreet varius ligula. Curabitur arcu orci, cursus ut erat non, lobortis egestas felis. Proin ullamcorper in quam nec cursus. Fusce eu porta urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec fringilla condimentum odio non fringilla. Pellentesque gravida nisl vitae bibendum sodales.
-
-Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien, sed mattis leo. Cras semper, neque ut feugiat blandit, ligula dui mattis ante, ut posuere neque est eu neque. Donec quis rutrum urna, ut imperdiet augue. In accumsan lacus vel tellus pulvinar, et venenatis mauris sollicitudin. Donec vel metus scelerisque, tincidunt nibh ac, mollis erat. Etiam tempor metus at hendrerit venenatis. Mauris vel orci mauris. Aliquam massa ligula, vulputate ac condimentum at, molestie sit amet tellus.
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<hr>
-
-<div id="LibredeDrogas">
-<span style="font-size: 25px;color:#2d3956;">Libre de Drogas 🔫</span>
+<div id="SaludPública ">
+<span style="font-size: 25px;color: #2d3956;">Salud Pública 🏥</span>
 </div>
 <br>
 <br>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat sapien vitae elit bibendum, ac placerat sapien interdum. Aliquam iaculis pulvinar odio ut bibendum. Etiam mollis ipsum sollicitudin consequat hendrerit. Suspendisse potenti. Vivamus neque est, hendrerit eget eleifend at, laoreet varius ligula. Curabitur arcu orci, cursus ut erat non, lobortis egestas felis. Proin ullamcorper in quam nec cursus. Fusce eu porta urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec fringilla condimentum odio non fringilla. Pellentesque gravida nisl vitae bibendum sodales.
+1.  PLAN DE PREVENCION DE LOS EFECTOS DEL NIÑO. Con un amplio proceso de fumigación y 
+de campaña para evitar epidemias evitables. 
 
-Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien, sed mattis leo. Cras semper, neque ut feugiat blandit, ligula dui mattis ante, ut posuere neque est eu neque. Donec quis rutrum urna, ut imperdiet augue. In accumsan lacus vel tellus pulvinar, et venenatis mauris sollicitudin. Donec vel metus scelerisque, tincidunt nibh ac, mollis erat. Etiam tempor metus at hendrerit venenatis. Mauris vel orci 
-mauris. Aliquam massa ligula, vulputate ac condimentum at, molestie sit amet tellus.
+2.  Optimización del gasto en salud: Realizaremos una auditoría exhaustiva de los recursos 
+asignados a los hospitales y centros de salud para identificar posibles áreas de mejora en la 
+eficiencia del gasto. Implementaremos medidas de control y seguimiento para garantizar una 
+gestión financiera transparente y responsable. 
+
+3.  Combate a la corrupción: Estableceremos mecanismos de supervisión y control rigurosos en 
+los procesos de adquisición y suministro de medicamentos, así como en la contratación de servicios y personal médico. Fomentaremos la participación ciudadana y la denuncia de 
+actos de corrupción, promoviendo la transparencia y la rendición de cuentas.
+
+4.  Fortalecimiento de la atención primaria: Priorizaremos la atención primaria como base del 
+sistema de salud, fortaleciendo los centros de salud y promoviendo la prevención y el 
+diagnóstico temprano de enfermedades. Impulsaremos la capacitación y contratación de 
+profesionales de la salud en áreas rurales y zonas de difícil acceso. 
+
+5.  Ampliación de la cobertura universal de salud: Implementaremos políticas y programas para 
+garantizar el acceso universal a servicios de salud de calidad, especialmente para los grupos 
+más  vulnerables.  Estableceremos  sistemas  de  financiamiento  sostenibles,  como  la 
+ampliación de la seguridad social y la promoción de alianzas público-privadas. 
+
+6.  Promoción de la medicina preventiva y comunitaria: Fomentaremos la educación en salud y 
+la prevención de enfermedades a través de campañas de concientización, promoción de 
+estilos de vida saludables y control de factores de riesgo. Impulsaremos la participación 
+comunitaria en la toma de decisiones y la implementación de políticas de salud. 
+
+7.  Conformación de una Plataforma tecnológica que permitirá a cada ciudadano ser dueño de 
+su  información  médica,  pero  sobre  todo  implementar  un  sistema  de  receta  médica 
+electrónica que nos permita eliminar las compras de medicina en los hospitales públicos, 
+desarmando a ciertas mafias locales que viven de esta base. 
+
+8.  El Ministerio de Salud si bien tendrá una ministra o ministro tendrá un Consejo de 12 
+Médicos de probada trayectoria profesional, entre ellos los decanos de las facultades de 
+medicina de las principales universidades del país. Ese Consejo decidirá sobre los principales 
+aspectos.  
+
+9.  Haremos que la atención de emergencias sea Universal, gratuita y obligatoria para cada 
+institución de salud privada. 
+
+10. Implementaremos la Superintendencia de Servicios De Salud, Medicina prepagada y 
+Farmacia, para empezar a eliminar los abusos sobre todo contra la clase media.
+
+11. Ampliaremos los programas de salud para personas en situación catastrófica y su 
+familia, es decir personas con discapacidades importantes o inhabilitantes y las familias que 
+los cuidan dotando de un salario a los familiares que deben dedicarse por tiempo completo 
+a su cuidado. 
+
+12. Emergencias gratuitas para todo niño menor de 14 años en todo el territorio nacional en 
+cualquier hospital. Tratamiento gratuito para los problemas resultantes de esas emergencias 
+para todos los niños en cualquier hospital del IESS o del Ministerio de Salud. 
+ 
 
 <br>
 <br>
@@ -128,192 +247,61 @@ mauris. Aliquam massa ligula, vulputate ac condimentum at, molestie sit amet tel
 </div>
 <br>
 <br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat sapien vitae elit bibendum, ac placerat sapien interdum. Aliquam iaculis pulvinar odio ut bibendum. Etiam mollis ipsum sollicitudin consequat hendrerit. Suspendisse potenti. Vivamus neque est, hendrerit eget eleifend at, laoreet varius ligula. Curabitur arcu orci, cursus ut erat non, lobortis egestas felis. Proin ullamcorper in quam nec cursus. Fusce eu porta urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec fringilla condimentum odio non fringilla. Pellentesque gravida nisl vitae bibendum sodales.
+  Educación primaria.  
 
-Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien, sed mattis leo. Cras semper, neque ut feugiat blandit, ligula dui mattis ante, ut posuere neque est eu neque. Donec quis rutrum urna, ut imperdiet augue. In accumsan lacus vel tellus pulvinar, et venenatis mauris sollicitudin. Donec vel metus scelerisque, tincidunt nibh ac, mollis erat. Etiam tempor metus at hendrerit venenatis. Mauris vel orci mauris. Aliquam massa ligula, vulputate ac condimentum at, molestie sit amet tellus.
+1. Necesitamos reformar el pensum, para que nuestros niños aprendan a vivir en un 
+mundo lleno de nuevas oportunidades y amenazas. Los niños deben aprender a 
+manejarse en el mundo virtual, a no ceder fotos ni dar información personal a 
+nadie. Pero también deben aprender los fundamentos de Inteligencia Artificial, 
+robótica, blockchain, y ciberseguridad. Claro está adaptado a la etapa concreta de 
+aprendizaje que el niño esté. Buscaremos niños más curiosos, más creativos, pero 
+también más resilientes y con mucha autoestima.  
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
-<div id="Calidaddevida">
-<span style="font-size: 25px;color:#2d3956;">Calidad de vida 👨‍👩‍👦</span>
-</div>
-<br>
-<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat sapien vitae elit bibendum, ac placerat sapien interdum. Aliquam iaculis pulvinar odio ut bibendum. Etiam mollis ipsum sollicitudin consequat hendrerit. Suspendisse potenti. Vivamus neque est, hendrerit eget eleifend at, laoreet varius ligula. Curabitur arcu orci, cursus ut erat non, lobortis egestas felis. Proin ullamcorper in quam nec cursus. Fusce eu porta urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec fringilla condimentum odio non fringilla. Pellentesque gravida nisl vitae bibendum sodales.
+2. Academia gratuita de inglés Online.  
 
-Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien, sed mattis leo. Cras semper, neque ut feugiat blandit, ligula dui mattis ante, ut posuere neque est eu neque. Donec quis rutrum urna, ut imperdiet augue. In accumsan lacus vel tellus pulvinar, et venenatis mauris sollicitudin. Donec vel metus scelerisque, tincidunt nibh ac, mollis erat. Etiam tempor metus at hendrerit venenatis. Mauris vel orci mauris. Aliquam massa ligula, vulputate ac condimentum at, molestie sit amet tellus.
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
-<div id="Vivienda">
-<span style="font-size: 25px;color:#2d3956;">Vivienda 🏠</span>
-</div>
-<br>
-<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat sapien vitae elit bibendum, ac placerat sapien interdum. Aliquam iaculis pulvinar odio ut bibendum. Etiam mollis ipsum sollicitudin consequat hendrerit. Suspendisse potenti. Vivamus neque est, hendrerit eget eleifend at, laoreet varius ligula. Curabitur arcu orci, cursus ut erat non, lobortis egestas felis. Proin ullamcorper in quam nec cursus. Fusce eu porta urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec fringilla condimentum odio non fringilla. Pellentesque gravida nisl vitae bibendum sodales.
+3. Si un niño estudia en un Colegio Fiscal, tendrá derecho a Una Tablet e Internet. 
 
-Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien, sed mattis leo. Cras semper, neque ut feugiat blandit, ligula dui mattis ante, ut posuere neque est eu neque. Donec quis rutrum urna, ut imperdiet augue. In accumsan lacus vel tellus pulvinar, et venenatis mauris sollicitudin. Donec vel metus scelerisque, tincidunt nibh ac, mollis erat. Etiam tempor metus at hendrerit venenatis. Mauris vel orci mauris. Aliquam massa ligula, vulputate ac condimentum at, molestie sit amet tellus.
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
-<div id="PoliticasdeGénero">
-<span style="font-size: 25px;color:#2d3956;">Politicas de Género 👩</span>
-</div>
-<br>
-<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat sapien vitae elit bibendum, ac placerat sapien interdum. Aliquam iaculis pulvinar odio ut bibendum. Etiam mollis ipsum sollicitudin consequat hendrerit. Suspendisse potenti. Vivamus neque est, hendrerit eget eleifend at, laoreet varius ligula. Curabitur arcu orci, cursus ut erat non, lobortis egestas felis. Proin ullamcorper in quam nec cursus. Fusce eu porta urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec fringilla condimentum odio non fringilla. Pellentesque gravida nisl vitae bibendum sodales.
+4. Si estudia en un Colegio privado, tendrá derecho a comprar una computadora en 
+su colegio, a precio de mercado, a cuotas (36) sin intereses.  
 
-Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien, sed mattis leo. Cras semper, neque ut feugiat blandit, ligula dui mattis ante, ut posuere neque est eu neque. Donec quis rutrum urna, ut imperdiet augue. In accumsan lacus vel tellus pulvinar, et venenatis mauris sollicitudin. Donec vel metus scelerisque, tincidunt nibh ac, mollis erat. Etiam tempor metus at hendrerit venenatis. Mauris vel orci mauris. Aliquam massa ligula, vulputate ac condimentum at, molestie sit amet tellus.
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
-<div id="Politicaexterior">
-<span style="font-size: 25px;color:#2d3956;">Politica exterior 🗺️</span>
-</div>
-<br>
-<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat sapien vitae elit bibendum, ac placerat sapien interdum. Aliquam iaculis pulvinar odio ut bibendum. Etiam mollis ipsum sollicitudin consequat hendrerit. Suspendisse potenti. Vivamus neque est, hendrerit eget eleifend at, laoreet varius ligula. Curabitur arcu orci, cursus ut erat non, lobortis egestas felis. Proin ullamcorper in quam nec cursus. Fusce eu porta urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec fringilla condimentum odio non fringilla. Pellentesque gravida nisl vitae bibendum sodales.
+  Secundaria: 
+1.  A revivir con fuerza los Institutos Técnicos públicos, para que nuestros jóvenes 
+puedan seguir estudiando al Universidad, pero también con la posibilidad de tener 
+un título Técnico Superior que le permita generar ingresos.  
+2. Retomaremos las clases de cívica y ética, así como las de lógica.  
+3. Idiomas: El inglés será obligatorio en todo Colegio público de un modo que aseguro 
+que nuestros hijos salgan bilingües del Colegio. Además, lanzaremos un programa 
+masivo de aprendizaje de lenguas para que nuestros hijos sepan inglés, y puedan 
+optar por aprender mandarín, francés, coreano, japonés, alemán, italiano o 
+Quichua en una plataforma online.  
+4. Cultura física: Las actividades de educación física se vuelven intensas y obligatorias.  
 
-Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien, sed mattis leo. Cras semper, neque ut feugiat blandit, ligula dui mattis ante, ut posuere neque est eu neque. Donec quis rutrum urna, ut imperdiet augue. In accumsan lacus vel tellus pulvinar, et venenatis mauris sollicitudin. Donec vel metus scelerisque, tincidunt nibh ac, mollis erat. Etiam tempor metus at hendrerit venenatis. Mauris vel orci mauris. Aliquam massa ligula, vulputate ac condimentum at, molestie sit amet tellus.
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
-<div id="MigraciónEcuatoriana">
-<span style="font-size: 25px;color:#2d3956;"> Migración Ecuatoriana ✈️</span>
-</div>
-<br>
-<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat sapien vitae elit bibendum, ac placerat sapien interdum. Aliquam iaculis pulvinar odio ut bibendum. Etiam mollis ipsum sollicitudin consequat hendrerit. Suspendisse potenti. Vivamus neque est, hendrerit eget eleifend at, laoreet varius ligula. Curabitur arcu orci, cursus ut erat non, lobortis egestas felis. Proin ullamcorper in quam nec cursus. Fusce eu porta urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec fringilla condimentum odio non fringilla. Pellentesque gravida nisl vitae bibendum sodales.
+  Universidad:  
+1. Cada universidad privada que reciba fondos del Estado deberá becar a un 50% de 
+alumnos.  
+2. El Estado becará en cualquier universidad privada a los 550 primeros estudiantes 
+de colegios públicos de cada provincia.  
+3. Las becas al extranjero hay que pensarlas mejor; una beca a Harvard a un 
+estudiante nos sale lo mismo que hacer estudiar a 30 alumnos en una Universidad 
+Pública nacional.  
+4. Cada Universidad deberá publicar al menos 1.000 documentos de investigación 
+científica al año. 100 patentes por año. 100 start-up por año.
 
-Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien, sed mattis leo. Cras semper, neque ut feugiat blandit, ligula dui mattis ante, ut posuere neque est eu neque. Donec quis rutrum urna, ut imperdiet augue. In accumsan lacus vel tellus pulvinar, et venenatis mauris sollicitudin. Donec vel metus scelerisque, tincidunt nibh ac, mollis erat. Etiam tempor metus at hendrerit venenatis. Mauris vel orci mauris. Aliquam massa ligula, vulputate ac condimentum at, molestie sit amet tellus.
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
-<div id="TransiciónEcológica">
-<span style="font-size: 25px;color:#2d3956;">Transición Ecológica 🌎</span>
-</div>
-<br>
-<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat sapien vitae elit bibendum, ac placerat sapien interdum. Aliquam iaculis pulvinar odio ut bibendum. Etiam mollis ipsum sollicitudin consequat hendrerit. Suspendisse potenti. Vivamus neque est, hendrerit eget eleifend at, laoreet varius ligula. Curabitur arcu orci, cursus ut erat non, lobortis egestas felis. Proin ullamcorper in quam nec cursus. Fusce eu porta urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec fringilla condimentum odio non fringilla. Pellentesque gravida nisl vitae bibendum sodales.
+5. Creación de la Universidad Pública Virtual, cuyos profesores serán profesores de 
+Universidades Públicas de renombre, y que alimentarán a la Universidad con 
+contenidos académicos en carreras estratégicas para el país como Ciencia de 
+Datos, Inteligencia Artificial, Blockchain, Nanomateriales, Bio-medicina, robótica, 
+digitalización del Estado, etc.  
 
-Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien, sed mattis leo. Cras semper, neque ut feugiat blandit, ligula dui mattis ante, ut posuere neque est eu neque. Donec quis rutrum urna, ut imperdiet augue. In accumsan lacus vel tellus pulvinar, et venenatis mauris sollicitudin. Donec vel metus scelerisque, tincidunt nibh ac, mollis erat. Etiam tempor metus at hendrerit venenatis. Mauris vel orci mauris. Aliquam massa ligula, vulputate ac condimentum at, molestie sit amet tellus.
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
-<div id="BienestarAnimal">
-<span style="font-size: 25px;color:#2d3956;">Bienestar Animal 🐕</span>
-</div>
-<br>
-<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat sapien vitae elit bibendum, ac placerat sapien interdum. Aliquam iaculis pulvinar odio ut bibendum. Etiam mollis ipsum sollicitudin consequat hendrerit. Suspendisse potenti. Vivamus neque est, hendrerit eget eleifend at, laoreet varius ligula. Curabitur arcu orci, cursus ut erat non, lobortis egestas felis. Proin ullamcorper in quam nec cursus. Fusce eu porta urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec fringilla condimentum odio non fringilla. Pellentesque gravida nisl vitae bibendum sodales.
+6. Red  de  pensiones  estudiantiles.  Se  trata  de  pensiones  que  publicarán  su 
+disponibilidad de habitaciones vía una aplicación tipo AIR BNB donde el Estado 
+ayudará en el pago de una pensión para estudiantes universitarios de provincia 
+que se encuentren en QUITO, GUAYAQUIL, CUENCA, MANTA, QUEVEDO. El pago 
+son las notas de excelencia del estudiante, si éste pierde cursos o baja su promedio, 
+pierde la pensión. 
 
-Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien, sed mattis leo. Cras semper, neque ut feugiat blandit, ligula dui mattis ante, ut posuere neque est eu neque. Donec quis rutrum urna, ut imperdiet augue. In accumsan lacus vel tellus pulvinar, et venenatis mauris sollicitudin. Donec vel metus scelerisque, tincidunt nibh ac, mollis erat. Etiam tempor metus at hendrerit venenatis. Mauris vel orci mauris. Aliquam massa ligula, vulputate ac condimentum at, molestie sit amet tellus.
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
-<div id="Empleo">
-<span style="font-size: 25px;color:#2d3956;"> Empleo 💼</span>
-</div>
-<br>
-<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat sapien vitae elit bibendum, ac placerat sapien interdum. Aliquam iaculis pulvinar odio ut bibendum. Etiam mollis ipsum sollicitudin consequat hendrerit. Suspendisse potenti. Vivamus neque est, hendrerit eget eleifend at, laoreet varius ligula. Curabitur arcu orci, cursus ut erat non, lobortis egestas felis. Proin ullamcorper in quam nec cursus. Fusce eu porta urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec fringilla condimentum odio non fringilla. Pellentesque gravida nisl vitae bibendum sodales.
 
-Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien, sed mattis leo. Cras semper, neque ut feugiat blandit, ligula dui mattis ante, ut posuere neque est eu neque. Donec quis rutrum urna, ut imperdiet augue. In accumsan lacus vel tellus pulvinar, et venenatis mauris sollicitudin. Donec vel metus scelerisque, tincidunt nibh ac, mollis erat. Etiam tempor metus at hendrerit venenatis. Mauris vel orci mauris. Aliquam massa ligula, vulputate ac condimentum at, molestie sit amet tellus.
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
-<div id="EstimuloalaInversión">
-<span style="font-size: 25px;color:#2d3956;">Estimulo a la Inversión 🏦</span>
-</div>
-<br>
-<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat sapien vitae elit bibendum, ac placerat sapien interdum. Aliquam iaculis pulvinar odio ut bibendum. Etiam mollis ipsum sollicitudin consequat hendrerit. Suspendisse potenti. Vivamus neque est, hendrerit eget eleifend at, laoreet varius ligula. Curabitur arcu orci, cursus ut erat non, lobortis egestas felis. Proin ullamcorper in quam nec cursus. Fusce eu porta urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec fringilla condimentum odio non fringilla. Pellentesque gravida nisl vitae bibendum sodales.
 
-Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien, sed mattis leo. Cras semper, neque ut feugiat blandit, ligula dui mattis ante, ut posuere neque est eu neque. Donec quis rutrum urna, ut imperdiet augue. In accumsan lacus vel tellus pulvinar, et venenatis mauris sollicitudin. Donec vel metus scelerisque, tincidunt nibh ac, mollis erat. Etiam tempor metus at hendrerit venenatis. Mauris vel orci mauris. Aliquam massa ligula, vulputate ac condimentum at, molestie sit amet tellus.
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
-<div id="Liquidez">
-<span style="font-size: 25px;color:#2d3956;">Liquidez 💸</span>
-</div>
-<br>
-<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat sapien vitae elit bibendum, ac placerat sapien interdum. Aliquam iaculis pulvinar odio ut bibendum. Etiam mollis ipsum sollicitudin consequat hendrerit. Suspendisse potenti. Vivamus neque est, hendrerit eget eleifend at, laoreet varius ligula. Curabitur arcu orci, cursus ut erat non, lobortis egestas felis. Proin ullamcorper in quam nec cursus. Fusce eu porta urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec fringilla condimentum odio non fringilla. Pellentesque gravida nisl vitae bibendum sodales.
-
-Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien, sed mattis leo. Cras semper, neque ut feugiat blandit, ligula dui mattis ante, ut posuere neque est eu neque. Donec quis rutrum urna, ut imperdiet augue. In accumsan lacus vel tellus pulvinar, et venenatis mauris sollicitudin. Donec vel metus scelerisque, tincidunt nibh ac, mollis erat. Etiam tempor metus at hendrerit venenatis. Mauris vel orci mauris. Aliquam massa ligula, vulputate ac condimentum at, molestie sit amet tellus.
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
-<div id="CrecimientoEconómico">
-<span style="font-size: 25px;color:#2d3956;"> Crecimiento Económico📈</span>
-</div>
-<br>
-<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat sapien vitae elit bibendum, ac placerat sapien interdum. Aliquam iaculis pulvinar odio ut bibendum. Etiam mollis ipsum sollicitudin consequat hendrerit. Suspendisse potenti. Vivamus neque est, hendrerit eget eleifend at, laoreet varius ligula. Curabitur arcu orci, cursus ut erat non, lobortis egestas felis. Proin ullamcorper in quam nec cursus. Fusce eu porta urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec fringilla condimentum odio non fringilla. Pellentesque gravida nisl vitae bibendum sodales.
-
-Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien, sed mattis leo. Cras semper, neque ut feugiat blandit, ligula dui mattis ante, ut posuere neque est eu neque. Donec quis rutrum urna, ut imperdiet augue. In accumsan lacus vel tellus pulvinar, et venenatis mauris sollicitudin. Donec vel metus scelerisque, tincidunt nibh ac, mollis erat. Etiam tempor metus at hendrerit venenatis. Mauris vel orci mauris. Aliquam massa ligula, vulputate ac condimentum at, molestie sit amet tellus.
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
-<div id="Inversiones">
-<span style="font-size: 25px;color:#2d3956;">Inversiones💱</span>
-</div>
-<br>
-<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat sapien vitae elit bibendum, ac placerat sapien interdum. Aliquam iaculis pulvinar odio ut bibendum. Etiam mollis ipsum sollicitudin consequat hendrerit. Suspendisse potenti. Vivamus neque est, hendrerit eget eleifend at, laoreet varius ligula. Curabitur arcu orci, cursus ut erat non, lobortis egestas felis. Proin ullamcorper in quam nec cursus. Fusce eu porta urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec fringilla condimentum odio non fringilla. Pellentesque gravida nisl vitae bibendum sodales.
-
-Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien, sed mattis leo. Cras semper, neque ut feugiat blandit, ligula dui mattis ante, ut posuere neque est eu neque. Donec quis rutrum urna, ut imperdiet augue. In accumsan lacus vel tellus pulvinar, et venenatis mauris sollicitudin. Donec vel metus scelerisque, tincidunt nibh ac, mollis erat. Etiam tempor metus at hendrerit venenatis. Mauris vel orci mauris. Aliquam massa ligula, vulputate ac condimentum at, molestie sit amet tellus.
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
-<div id="Emprendimiento">
-<span style="font-size: 25px;color:#2d3956;">Emprendimiento 💻</span>
-</div>
-<br>
-<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat sapien vitae elit bibendum, ac placerat sapien interdum. Aliquam iaculis pulvinar odio ut bibendum. Etiam mollis ipsum sollicitudin consequat hendrerit. Suspendisse potenti. Vivamus neque est, hendrerit eget eleifend at, laoreet varius ligula. Curabitur arcu orci, cursus ut erat non, lobortis egestas felis. Proin ullamcorper in quam nec cursus. Fusce eu porta urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec fringilla condimentum odio non fringilla. Pellentesque gravida nisl vitae bibendum sodales.
-
-Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien, sed mattis leo. Cras semper, neque ut feugiat blandit, ligula dui mattis ante, ut posuere neque est eu neque. Donec quis rutrum urna, ut imperdiet augue. In accumsan lacus vel tellus pulvinar, et venenatis mauris sollicitudin. Donec vel metus scelerisque, tincidunt nibh ac, mollis erat. Etiam tempor metus at hendrerit venenatis. Mauris vel orci mauris. Aliquam massa ligula, vulputate ac condimentum at, molestie sit amet tellus.
 <br>
 <br>
 <br>
@@ -321,108 +309,135 @@ Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien
 <br>
 <hr>
 <div id="Agricultura">
-<span style="font-size: 25px;color:#2d3956;">Agricultura🚜</span>
+<span style="font-size: 25px;color:#2d3956;">Agricultura 🚜</span>
 </div>
 <br>
 <br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat sapien vitae elit bibendum, ac placerat sapien interdum. Aliquam iaculis pulvinar odio ut bibendum. Etiam mollis ipsum sollicitudin consequat hendrerit. Suspendisse potenti. Vivamus neque est, hendrerit eget eleifend at, laoreet varius ligula. Curabitur arcu orci, cursus ut erat non, lobortis egestas felis. Proin ullamcorper in quam nec cursus. Fusce eu porta urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec fringilla condimentum odio non fringilla. Pellentesque gravida nisl vitae bibendum sodales.
 
-Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien, sed mattis leo. Cras semper, neque ut feugiat blandit, ligula dui mattis ante, ut posuere neque est eu neque. Donec quis rutrum urna, ut imperdiet augue. In accumsan lacus vel tellus pulvinar, et venenatis mauris sollicitudin. Donec vel metus scelerisque, tincidunt nibh ac, mollis erat. Etiam tempor metus at hendrerit venenatis. Mauris vel orci mauris. Aliquam massa ligula, vulputate ac condimentum at, molestie sit amet tellus.
+1. PLAN DE PREVENCION DE LOS EFECTOS DEL NIÑO. Tenemos que prepararlo de la 
+mano de los medianos y pequeños productores de banano, café, cacao, camarón, 
+pesca, turismo, transporte.  
+
+2.  Nuestra protección al productor nacional de Arroz y maíz amarillo. Apoyar a los 
+bananeros de todo tamaño que ven reducirse sus frutas aceptadas por el invierno. 
+Crédito para reconfiguración financiera y transformación Digital del Negocio hacia la 
+trazabilidad y sostenibilidad.  
+3.  Apoyar a los camaroneros en este nuevo Niño. Crédito para reforzar piscinas y 
+seguridad.   
+4.  Aumento de exportaciones: Embajadores tendrán una cuota mínima de desarrollo 
+nuevos negocios.  
+5.  Centro de desarrollo de negocios en Turquía, Catar. Emiratos, Singapur, Holanda, San 
+Francisco, New York, Ciudad del Cabo. Tel Aviv. 
+6.  Exportadores podrán recibir crédito directo de importadores: implementación de 
+cupos de importación en dólares, que podrán ser adquiridos a exportadores. 
+
+  Crédito sostenible: 
+
+7. 1.000 millones de USD en crédito a través de cooperativas sólo para 
+actividades productivas sostenibles. Tasa 5%, a 6 años con 7.000 USD. 
+Crédito 567. 
+8. 500 millones Crédito SOSTENIBLE modalidad 10-30-100- 100k USD a 30 
+años a l 10%. 
+9.  Desarrollo de la empresa Almacenera para que importe a precios razonables los 
+insumos agrícolas que Ecuador cuenta con los mas caros de la región por el 
+monopolio o duopolio en la importación y distribución de agroquímicos.  
+10.  Las Juntas Parroquiales serán centros de apoyo a la producción agrícola en cada 
+Parroquia Rural.  
+11. Agrocalidad deberá autorizar nuevos agroquímicos o suplementos nutricionales 
+en 15 días o dar paso a los requerimientos de los nuevos importadores
 <br>
 <br>
 <br>
 <br>
 <br>
 <hr>
-<div id="Empresa🏭">
-<span style="font-size: 25px;color:#2d3956;">Empresa🏭</span>
+<div id="Economiapopular">
+<span style="font-size: 25px;color:#2d3956;">Economia popular  💰</span>
 </div>
 <br>
 <br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat sapien vitae elit bibendum, ac placerat sapien interdum. Aliquam iaculis pulvinar odio ut bibendum. Etiam mollis ipsum sollicitudin consequat hendrerit. Suspendisse potenti. Vivamus neque est, hendrerit eget eleifend at, laoreet varius ligula. Curabitur arcu orci, cursus ut erat non, lobortis egestas felis. Proin ullamcorper in quam nec cursus. Fusce eu porta urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec fringilla condimentum odio non fringilla. Pellentesque gravida nisl vitae bibendum sodales.
 
-Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien, sed mattis leo. Cras semper, neque ut feugiat blandit, ligula dui mattis ante, ut posuere neque est eu neque. Donec quis rutrum urna, ut imperdiet augue. In accumsan lacus vel tellus pulvinar, et venenatis mauris sollicitudin. Donec vel metus scelerisque, tincidunt nibh ac, mollis erat. Etiam tempor metus at hendrerit venenatis. Mauris vel orci mauris. Aliquam massa ligula, vulputate ac condimentum at, molestie sit amet tellus.
+1.  Defendiendo a los más pequeños, y haciendo obligatoria su conformación de 
+cámaras, federaciones o grupos de defensa de clúster de negocio o de territorio de 
+negocio.  
+
+2.  No permitiendo la llegada inmediata de bienes que se producen aquí en el país: por 
+ejemplo, confección de pantalones de Pelileo, muebles en Huambaló (Pelileo) y 
+Cuenca, artesanía, etc. Lasso que se quejaba de la venta del país a CHINA lo ha 
+otorgado  en  bandeja  a  ese  país.  Protegeremos  al  pequeño  productor  ahora 
+amenazado por la entrega irresponsable del gobierno del encuentro a China.  
+3.  CREDITO para la compra de maquinaria, o para la transformación digital de su 
+negocio.  
+
+4.  Creación de billetera virtual para acumulación de puntos a quienes prefieren bienes 
+e insumos nacionales.  
+
+5.  Universidad PYME. De educación de gestores de PYME.  
+
+6.  Reactivación de los pequeños productores con crédito a los insumos del 3% a 3 años 
+distribuido por las cooperativas de ahorro y crédito con recursos de la CONAFIPS. 
+
+7.  Crédito a las 4 cooperativas mas grandes para que adquieran el Banco del Pacífico. 
+Estado retiene un 25% de ganancias. 
 <br>
 <br>
 <br>
 <br>
 <br>
 <hr>
-<div id="ReformaTributarias ">
-<span style="font-size: 25px;color:#2d3956;">Reforma Tributarias 🎖️</span>
+<div id="BienestarSocial">
+<span style="font-size: 25px;color:#2d3956;">Bienestar Social 🚶‍♂️</span>
 </div>
 <br>
 <br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat sapien vitae elit bibendum, ac placerat sapien interdum. Aliquam iaculis pulvinar odio ut bibendum. Etiam mollis ipsum sollicitudin consequat hendrerit. Suspendisse potenti. Vivamus neque est, hendrerit eget eleifend at, laoreet varius ligula. Curabitur arcu orci, cursus ut erat non, lobortis egestas felis. Proin ullamcorper in quam nec cursus. Fusce eu porta urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec fringilla condimentum odio non fringilla. Pellentesque gravida nisl vitae bibendum sodales.
 
-Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien, sed mattis leo. Cras semper, neque ut feugiat blandit, ligula dui mattis ante, ut posuere neque est eu neque. Donec quis rutrum urna, ut imperdiet augue. In accumsan lacus vel tellus pulvinar, et venenatis mauris sollicitudin. Donec vel metus scelerisque, tincidunt nibh ac, mollis erat. Etiam tempor metus at hendrerit venenatis. Mauris vel orci mauris. Aliquam massa ligula, vulputate ac condimentum at, molestie sit amet tellus.
+1.  Manteniendo y ampliando el Bono de Desarrollo Humano, para convertirlo en garantía 
+de Préstamos de hasta 10.000 dólares para mujeres trabajadoras.  
+2.  Ampliando red de guarderías, de manera que ninguna madre ecuatoriana tenga que 
+volver a preocuparse dónde dejar su niño cuando ella esté trabajando.  
+3.  Campaña nacional contra el embarazo precoz.  
+4.  Campaña nacional contra el uso de drogas en la juventud. 
+5.  Campaña nacional para evitar la entrada a pandillas de la juventud. 
+6.  Infocentro se convertirán en Joven Centros donde aprenderán todo tipo de habilidades. 
+7.  Universidad de la Mujer Emprendedora: Centro académico en línea para apoyar con 
+formación  en  administración  y  finanzas  y  cursos  varios  para  las  mujeres 
+emprendedoras, para las administradoras del hogar. 
 <br>
 <br>
 <br>
 <br>
 <br>
 <hr>
-<div id="Turismo">
-<span style="font-size: 25px;color:#2d3956;">Turismo 🏞️</span>
+<div id="Financiamiento">
+<span style="font-size: 25px;color:#2d3956;">Financiamiento 🏦</span>
 </div>
 <br>
 <br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat sapien vitae elit bibendum, ac placerat sapien interdum. Aliquam iaculis pulvinar odio ut bibendum. Etiam mollis ipsum sollicitudin consequat hendrerit. Suspendisse potenti. Vivamus neque est, hendrerit eget eleifend at, laoreet varius ligula. Curabitur arcu orci, cursus ut erat non, lobortis egestas felis. Proin ullamcorper in quam nec cursus. Fusce eu porta urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec fringilla condimentum odio non fringilla. Pellentesque gravida nisl vitae bibendum sodales.
 
-Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien, sed mattis leo. Cras semper, neque ut feugiat blandit, ligula dui mattis ante, ut posuere neque est eu neque. Donec quis rutrum urna, ut imperdiet augue. In accumsan lacus vel tellus pulvinar, et venenatis mauris sollicitudin. Donec vel metus scelerisque, tincidunt nibh ac, mollis erat. Etiam tempor metus at hendrerit venenatis. Mauris vel orci mauris. Aliquam massa ligula, vulputate ac condimentum at, molestie sit amet tellus.
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
-<div id="Fortalecimiento">
-<span style="font-size: 25px;color:#2d3956;">Fortalecimiento💪</span>
-</div>
-<br>
-<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat sapien vitae elit bibendum, ac placerat sapien interdum. Aliquam iaculis pulvinar odio ut bibendum. Etiam mollis ipsum sollicitudin consequat hendrerit. Suspendisse potenti. Vivamus neque est, hendrerit eget eleifend at, laoreet varius ligula. Curabitur arcu orci, cursus ut erat non, lobortis egestas felis. Proin ullamcorper in quam nec cursus. Fusce eu porta urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec fringilla condimentum odio non fringilla. Pellentesque gravida nisl vitae bibendum sodales.
+1. Evitando el robo de miles de barriles de petróleo que no se contabilizan antes de entrar 
+a los oleoductos. 1.000 millones año mínimo. 
 
-Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien, sed mattis leo. Cras semper, neque ut feugiat blandit, ligula dui mattis ante, ut posuere neque est eu neque. Donec quis rutrum urna, ut imperdiet augue. In accumsan lacus vel tellus pulvinar, et venenatis mauris sollicitudin. Donec vel metus scelerisque, tincidunt nibh ac, mollis erat. Etiam tempor metus at hendrerit venenatis. Mauris vel orci mauris. Aliquam massa ligula, vulputate ac condimentum at, molestie sit amet tellus.
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
-<div id="Conectividad">
-<span style="font-size: 25px;color:#2d3956;">Conectividad 🛰️</span>
-</div>
-<br>
-<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat sapien vitae elit bibendum, ac placerat sapien interdum. Aliquam iaculis pulvinar odio ut bibendum. Etiam mollis ipsum sollicitudin consequat hendrerit. Suspendisse potenti. Vivamus neque est, hendrerit eget eleifend at, laoreet varius ligula. Curabitur arcu orci, cursus ut erat non, lobortis egestas felis. Proin ullamcorper in quam nec cursus. Fusce eu porta urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec fringilla condimentum odio non fringilla. Pellentesque gravida nisl vitae bibendum sodales.
+2. Vendiendo activos del Estado que están guardando polvo, mediante la ampliación de las 
+capacidades de SERCOP para ser SERCOVEP. 4.000 millones por año. 
+a. Venta de activos de TAME y sus frecuencias. 
 
-Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien, sed mattis leo. Cras semper, neque ut feugiat blandit, ligula dui mattis ante, ut posuere neque est eu neque. Donec quis rutrum urna, ut imperdiet augue. In accumsan lacus vel tellus pulvinar, et venenatis mauris sollicitudin. Donec vel metus scelerisque, tincidunt nibh ac, mollis erat. Etiam tempor metus at hendrerit venenatis. Mauris vel orci mauris. Aliquam massa ligula, vulputate ac condimentum at, molestie sit amet tellus.
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
-<div id="Corrupción">
-<span style="font-size: 25px;color:#2d3956;">Corrupción 🥊</span>
-</div>
-<br>
-<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat sapien vitae elit bibendum, ac placerat sapien interdum. Aliquam iaculis pulvinar odio ut bibendum. Etiam mollis ipsum sollicitudin consequat hendrerit. Suspendisse potenti. Vivamus neque est, hendrerit eget eleifend at, laoreet varius ligula. Curabitur arcu orci, cursus ut erat non, lobortis egestas felis. Proin ullamcorper in quam nec cursus. Fusce eu porta urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec fringilla condimentum odio non fringilla. Pellentesque gravida nisl vitae bibendum sodales.
+b. Concesión de líneas de ferrocarril.  
 
-Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien, sed mattis leo. Cras semper, neque ut feugiat blandit, ligula dui mattis ante, ut posuere neque est eu neque. Donec quis rutrum urna, ut imperdiet augue. In accumsan lacus vel tellus pulvinar, et venenatis mauris sollicitudin. Donec vel metus scelerisque, tincidunt nibh ac, mollis erat. Etiam tempor metus at hendrerit venenatis. Mauris vel orci mauris. Aliquam massa ligula, vulputate ac condimentum at, molestie sit amet tellus.
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
-<div id="Legislación">
-<span style="font-size: 25px;color:#2d3956;">Legislación ⚖️</span>
-</div>
-<br>
-<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat sapien vitae elit bibendum, ac placerat sapien interdum. Aliquam iaculis pulvinar odio ut bibendum. Etiam mollis ipsum sollicitudin consequat hendrerit. Suspendisse potenti. Vivamus neque est, hendrerit eget eleifend at, laoreet varius ligula. Curabitur arcu orci, cursus ut erat non, lobortis egestas felis. Proin ullamcorper in quam nec cursus. Fusce eu porta urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec fringilla condimentum odio non fringilla. Pellentesque gravida nisl vitae bibendum sodales.
+c. Concesión de aeropuertos de Tachina, Santa Rosa y Tena.  
 
-Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien, sed mattis leo. Cras semper, neque ut feugiat blandit, ligula dui mattis ante, ut posuere neque est eu neque. Donec quis rutrum urna, ut imperdiet augue. In accumsan lacus vel tellus pulvinar, et venenatis mauris sollicitudin. Donec vel metus scelerisque, tincidunt nibh ac, mollis erat. Etiam tempor metus at hendrerit venenatis. Mauris vel orci mauris. Aliquam massa ligula, vulputate ac condimentum at, molestie sit amet tellus.
+d. Concesión para actividades de economía espacial del enorme predio que costo 
+USD 1.200 millones en El Aromo. 
+
+3. Racionalización del gasto de los ministerios y de los GAD. Consultorías, proceso de 
+difusión, eventos de rendición de cuentas, rediseño de logos, diseño de campañas, 
+rediseño de mueblería, compra de vehículos, compras de activos innecesarios, compra 
+de tecnología, y otras cosas innecesarias, queda prohibida durante 18 meses. Ahorro: 
+3.000 millones año. 
+4. Renegociación de contratos Petroleros. Monto indeterminado. 
+
+5. Renegociación  contratos  de  uso  radioespectro.  (telecomunicaciones)  Monto 
+indeterminado. 
+6. Revisión de contratos de comercialización del petróleo. 
+
+7. Revisión de compras de cada empresa pública de sectores estratégicos. Deberán 
+justificar personal. 

@@ -415,7 +415,7 @@ de vivienda.
 
 <hr>
 <div id="PoliticasdeGénero">
-<span style="font-size: 25px;color:#2d3956;">Politicas de Género 👩</span>
+<span style="font-size: 25px;color:#2d3956;">Políticas de Género 👩</span>
 </div>
 <br>
 <br>
@@ -573,7 +573,7 @@ Ecuador ha sido reconocido por sus derechos laborales, pero también plantea la 
 
 <hr>
 <div id="EstimuloalaInversión">
-<span style="font-size: 25px;color:#2d3956;">Estimulo a la Inversión 🏦</span>
+<span style="font-size: 25px;color:#2d3956;">Estímulo a la Inversión 🏦</span>
 </div>
 <br>
 <br>

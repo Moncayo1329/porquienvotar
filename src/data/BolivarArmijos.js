@@ -6,109 +6,40 @@ const data = {
 			link: "#Seguridad",
 		},
 		{
-			name: "Instituciones 🏛️",
-			link: "#Instituciones",
+			name: "Disuación 🥊",
+			link: "#Disuación ",
 		},
 		{
-			name: "Económico 💰",
-			link: "#Económico ",
+			name: "Justicia ⚖️",
+			link: "#Justicia",
 		},
 		{
-			name: "Social 🚶‍♂️",
-			link: "#Social",
+			name: "Salud Pública 🏥",
+			link: "#SaludPública",
 		},
-		{
-			name: "Libre de Drogas 🔫",
-			link: "#LibredeDrogas ",
-		},
+
 		{
 			name: "Educación 🏫",
 			link: "#Educación",
 		},
 		{
-			name: "Calidad de vida 👨‍👩‍👦",
-			link: "#Calidaddevida",
+			name: "Economia popular  💰",
+			link: "#Economiapopular",
 		},
 		{
-			name: "Vivienda 🏠",
-			link: "#Vivienda ",
+			name: "Bienestar Social 🚶‍♂️",
+			link: "#BienestarSocial ",
 		},
 		{
-			name: "Politicas de Género 👩",
-			link: "#PoliticasdeGénero ",
+			name: "Financiamiento 🏦",
+			link: "#Financiamiento ",
 		},
-		{
-			name: "Politica exterior 🗺️",
-			link: "#Politicaexterior ",
-		},
-		{
-			name: "Migración Ecuatoriana ✈️",
-			link: "#MigraciónEcuatoriana",
-		},
-		{
-			name: "Transición Ecológica 🌎",
-			link: "#TransiciónEcológica",
-		},
-		{
-			name: "Bienestar Animal 🐕",
-			link: "#BienestarAnimal ",
-		},
-		{
-			name: "Empleo 💼",
-			link: "#Empleo ",
-		},
-		{
-			name: "Estimulo a la Inversión 🏦",
-			link: "#EstimuloalaInversión",
-		},
-		{
-			name: "Liquidez 💸",
-			link: "#Liquidez",
-		},
-		{
-			name: "Crecimiento Económico📈",
-			link: "#CrecimientoEconómico",
-		},
-		{
-			name: "Inversiones💱",
-			link: "#Inversiones",
-		},
-		{
-			name: "Emprendimiento 💻",
-			link: "#Emprendimiento ",
-		},
+		
 		{
 			name: "Agricultura🚜",
 			link: "#Agricultura",
 		},
-		{
-			name: "Empresa🏭",
-			link: "#Empresa",
-		},
-		{
-			name: "Reforma Tributarias 🎖️",
-			link: "#ReformaTributarias",
-		},
-		{
-			name: "Turismo 🏞️",
-			link: "#Turismo ",
-		},
-		{
-			name: "Fortalecimiento💪",
-			link: "#Fortalecimiento",
-		},
-		{
-			name: "Conectividad 🛰️",
-			link: "#Conectividad",
-		},
-		{
-			name: "Corrupción 🥊",
-			link: "#Corrupción",
-		},
-		{
-			name: "Legislación ⚖️",
-			link: "#Legislación",
-		},
+		
 	],
 };
 export default data;
