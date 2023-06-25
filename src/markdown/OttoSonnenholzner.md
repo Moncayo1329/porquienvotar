@@ -791,7 +791,7 @@ sostenibilidad del programa de inversión.
 <br>
 
 <hr>
-<div id="MigraciónEcuatoriana">
+<div id="#ObrasPúblicas">
 <span style="font-size: 25px;color:#2d3956;">Obras Públicas 🏗️</span>
 </div>
 <br>
@@ -882,7 +882,7 @@ internacional y la protección de los derechos de autor.
 <br>
 
 <hr>
-<div id="BienestarAnimal">
+<div id="Deporte">
 <span style="font-size: 25px;color:#2d3956;">Deporte 🚲</span>
 </div>
 <br>
