@@ -51,7 +51,7 @@ const data = {
 		},
 		{
 			name: "Bienestar Animal 🐕",
-			link: "#BienestarAnimal ",
+			link: "#BienestarAnimal",
 		},
 		{
 			name: "Empleo 💼",

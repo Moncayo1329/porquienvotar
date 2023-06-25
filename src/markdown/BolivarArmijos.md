@@ -177,7 +177,7 @@ CIUDADANOS.
 
 <hr>
 
-<div id="SaludPública ">
+<div id="SaludPública">
 <span style="font-size: 25px;color: #2d3956;">Salud Pública 🏥</span>
 </div>
 <br>
@@ -414,11 +414,10 @@ emprendedoras, para las administradoras del hogar.
 <br>
 <br>
 
-1. Evitando el robo de miles de barriles de petróleo que no se contabilizan antes de entrar 
-a los oleoductos. 1.000 millones año mínimo. 
+1. Evitando el robo de miles de barriles de petróleo que no se contabilizan antes de entrar a los oleoductos. 1.000 millones año mínimo. 
 
-2. Vendiendo activos del Estado que están guardando polvo, mediante la ampliación de las 
-capacidades de SERCOP para ser SERCOVEP. 4.000 millones por año. 
+2. Vendiendo activos del Estado que están guardando polvo, mediante la ampliación de las capacidades de SERCOP para ser SERCOVEP. 4.000 millones por año. 
+
 a. Venta de activos de TAME y sus frecuencias. 
 
 b. Concesión de líneas de ferrocarril.  
@@ -428,16 +427,18 @@ c. Concesión de aeropuertos de Tachina, Santa Rosa y Tena.
 d. Concesión para actividades de economía espacial del enorme predio que costo 
 USD 1.200 millones en El Aromo. 
 
-3. Racionalización del gasto de los ministerios y de los GAD. Consultorías, proceso de 
+- Racionalización del gasto de los ministerios y de los GAD. Consultorías, proceso de 
 difusión, eventos de rendición de cuentas, rediseño de logos, diseño de campañas, 
 rediseño de mueblería, compra de vehículos, compras de activos innecesarios, compra 
 de tecnología, y otras cosas innecesarias, queda prohibida durante 18 meses. Ahorro: 
 3.000 millones año. 
-4. Renegociación de contratos Petroleros. Monto indeterminado. 
 
-5. Renegociación  contratos  de  uso  radioespectro.  (telecomunicaciones)  Monto 
+- Renegociación de contratos Petroleros. Monto indeterminado. 
+
+- Renegociación  contratos  de  uso  radioespectro.  (telecomunicaciones)  Monto 
 indeterminado. 
-6. Revisión de contratos de comercialización del petróleo. 
 
-7. Revisión de compras de cada empresa pública de sectores estratégicos. Deberán 
+- Revisión de contratos de comercialización del petróleo. 
+
+- Revisión de compras de cada empresa pública de sectores estratégicos. Deberán 
 justificar personal. 

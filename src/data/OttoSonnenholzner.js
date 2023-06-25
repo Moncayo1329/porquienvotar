@@ -5,110 +5,68 @@ const data = {
 			name: "Seguridad 🦺",
 			link: "#Seguridad",
 		},
-		{
-			name: "Instituciones 🏛️",
-			link: "#Instituciones",
-		},
+		
 		{
 			name: "Económico 💰",
 			link: "#Económico ",
 		},
 		{
-			name: "Social 🚶‍♂️",
-			link: "#Social",
+			name: "Salud Pública 🏥",
+			link: "#SaludPública",
 		},
 		{
-			name: "Libre de Drogas 🔫",
-			link: "#LibredeDrogas ",
+			name: "Participación Ciudadana 🚶‍♂️",
+			link: "#ParticipaciónCiudadana",
 		},
 		{
 			name: "Educación 🏫",
 			link: "#Educación",
 		},
 		{
-			name: "Calidad de vida 👨‍👩‍👦",
-			link: "#Calidaddevida",
+			name: "Innovación 💻",
+			link: "#Innovación",
 		},
 		{
 			name: "Vivienda 🏠",
 			link: "#Vivienda ",
 		},
 		{
-			name: "Politicas de Género 👩",
-			link: "#PoliticasdeGénero ",
+			name: "Seguridad Social 🎖️",
+			link: "#SeguridadSocial",
 		},
 		{
-			name: "Politica exterior 🗺️",
+			name: "Política exterior 🗺️",
 			link: "#Politicaexterior ",
 		},
 		{
-			name: "Migración Ecuatoriana ✈️",
-			link: "#MigraciónEcuatoriana",
+			name: "Obras Públicas 🏗️",
+			link: "#ObrasPúblicas",
 		},
 		{
-			name: "Transición Ecológica 🌎",
-			link: "#TransiciónEcológica",
+			name: "Cultura 🏛️",
+			link: "#Cultura",
 		},
 		{
-			name: "Bienestar Animal 🐕",
-			link: "#BienestarAnimal ",
+			name: "Deporte 🚲",
+			link: "#Deporte",
 		},
 		{
-			name: "Empleo 💼",
-			link: "#Empleo ",
+			name: "Ambiental 🌎",
+			link: "#Ambiental",
 		},
+		
 		{
-			name: "Estimulo a la Inversión 🏦",
-			link: "#EstimuloalaInversión",
-		},
-		{
-			name: "Liquidez 💸",
-			link: "#Liquidez",
-		},
-		{
-			name: "Crecimiento Económico📈",
-			link: "#CrecimientoEconómico",
-		},
-		{
-			name: "Inversiones💱",
-			link: "#Inversiones",
-		},
-		{
-			name: "Emprendimiento 💻",
-			link: "#Emprendimiento ",
-		},
-		{
-			name: "Agricultura🚜",
-			link: "#Agricultura",
-		},
-		{
-			name: "Empresa🏭",
-			link: "#Empresa",
-		},
-		{
-			name: "Reforma Tributarias 🎖️",
-			link: "#ReformaTributarias",
-		},
-		{
-			name: "Turismo 🏞️",
-			link: "#Turismo ",
-		},
-		{
-			name: "Fortalecimiento💪",
-			link: "#Fortalecimiento",
-		},
-		{
-			name: "Conectividad 🛰️",
-			link: "#Conectividad",
+			name: "Político 🗳️",
+			link: "#Político",
 		},
 		{
 			name: "Corrupción 🥊",
 			link: "#Corrupción",
 		},
-		{
-			name: "Legislación ⚖️",
-			link: "#Legislación",
-		},
+		
+		
+		
+		
 	],
 };
 export default data;
