@@ -26,10 +26,6 @@ const data = {
 			link: "#Salud",
 		},
 		{
-			name: "Migrantes en Ecuador✈️",
-			link: "#MigrantesenEcuador",
-		},
-		{
 			name: "Pueblos y Nacionalidades ℹ️",
 			link: "#PueblosyNacionalidades",
 		},
@@ -42,8 +38,8 @@ const data = {
 			link: "#Participaciónciudadana",
 		},
 		{
-			name: "Migración Ecuatoriana ✈️",
-			link: "#MigraciónEcuatoriana",
+			name: "Migrantes en Ecuador ✈️",
+			link: "#MigrantesenEcuador",
 		},
 		{
 			name: "Desempleo 💼",
@@ -71,7 +67,7 @@ const data = {
 		},
 		{
 			name: "Deuda Pública 💵",
-			link: "#Deuda Pública",
+			link: "#DeudaPública",
 		},
 		{
 			name: "Sistema crediticio ⌨️",
@@ -86,7 +82,7 @@ const data = {
 			link: "#Sostenibilidadproductiva",
 		},
 		{
-			name: "Compras públicas  🎖️",
+			name: "Compras públicas 🎖️",
 			link: "#Compraspúblicas",
 		},
 		{

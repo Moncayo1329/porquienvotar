@@ -90,7 +90,7 @@ prevenir los delitos cibernéticos y responder eficazmente en caso de incidentes
 
 <hr>
 
-<div id="Sistemapenitenciario ">
+<div id="Sistemapenitenciario">
 <span style="font-size: 25px;color: #2d3956;">Sistema penitenciario👮 </span>
 </div>
 <br>
@@ -398,28 +398,28 @@ ancestrales, promoción de turismo comunitario y reconocimiento de sabiduría
 <br>
 <br>
 
-1. Promover la No Discriminación y la Igualdad de Oportunidades:  
+- Promover la No Discriminación y la Igualdad de Oportunidades:  
 Programas de Sensibilización,impulsaremos programas de  sensibilización destinados a educar a la sociedad sobre las identidades y orientaciones sexuales y de género diversas, con el fin de disminuir los estigmas y fomentar un ambiente de respeto y aceptación.
 
-2.Políticas de Igualdad en el Empleo : 
+- Políticas de Igualdad en el Empleo : 
 Implementaremos políticas para garantizar la 
 igualdad de oportunidades en el empleo, prohibiendo la discriminación en base a 
 la orientación sexual o identidad de género en todos los sectores laborales.
 
 Proteger y Ampliar los Derechos de los Grupos LGBTQ+
 
- 1. Apoyo Legal : Estableceremos centros de apoyo legal para asesorar y representar 
+- Apoyo Legal : Estableceremos centros de apoyo legal para asesorar y representar 
 a las personas LGBTQ+ en casos de discriminación, violencia o violación de sus 
 derechos.
 
-2. Salud Integral: Trabajaremos en la capacitación de profesionales de la salud para 
+- Salud Integral: Trabajaremos en la capacitación de profesionales de la salud para 
 ofrecer una atención adecuada y respetuosa a las personas LGBTQ+, incluyendo 
 el acceso a tratamientos hormonales y psicoterapia para las personas trans que así 
 lo deseen.  
 
 Inclusión de la Diversidad Sexual en la Educación
 
- 1. Apoyo a Estudiantes LGBTQ+ : Desarrollaremos programas de apoyo para 
+ - Apoyo a Estudiantes LGBTQ+ : Desarrollaremos programas de apoyo para 
 estudiantes LGBTQ+, que incluirán orientación psicológica, grupos de apoyo y 
 canales de denuncia de acoso o discriminación. 
 
@@ -431,7 +431,7 @@ canales de denuncia de acoso o discriminación.
 <br>
 <br>
 <hr>
-<div id="Participaciónciudadana ">
+<div id="Participaciónciudadana">
 <span style="font-size: 25px;color:#2d3956;"> Participación ciudadana 🚶‍♂️ </span>
 </div>
 <br>
@@ -905,7 +905,7 @@ contra la discriminación salarial.
 <br>
 <hr>
 <div id="IncentivosTributarios">
-<span style="font-size: 25px;color:#2d3956;">Incentivos Tributarios ⚖️</span>
+<span style="font-size:25px;color:#2d3956;">Incentivos Tributarios ⚖️</span>
 </div>
 <br>
 <br>
@@ -990,24 +990,24 @@ adopten prácticas de buena gobernanza fiscal y eviten el uso de paraísos fisca
 <br>
 <br>
 
-1. Fomento de un ambiente de negocios favorable: implementar 
+- Fomento de un ambiente de negocios favorable: implementar 
 políticas que fomenten la inversión y el crecimiento empresarial, tales como una regulación 
 eficiente, una tributación razonable, y una infraestructura de calidad. Un entorno 
 de negocios favorable puede atraer a empresas extranjeras que buscan fusiones y
  adquisiciones y fomentar la expansión de las empresas locales a través de M&A.
 
- 2. Implementación de una regulación de competencia efectiva: Fortalecer la 
+- Implementación de una regulación de competencia efectiva: Fortalecer la 
 capacidad de la autoridad de competencia de Ecuador para analizar y aprobar las 
 M&A. Esto puede ayudar a evitar la concentración excesiva de mercado y 
 proteger los intereses de los consumidores. Es esencial que la autoridad de 
 competencia tenga los recursos y la independencia necesarios para llevar a cabo su labor eficazmente. 
 
-3. Promoción de la formación y las habilidades laborales: Implementar políticas de 
+- Promoción de la formación y las habilidades laborales: Implementar políticas de 
 formación y reorientación laboral para ayudar a los trabajadores a adaptarse a los 
 cambios producidos por las M&A. Esto puede incluir programas de formación en 
 nuevas tecnologías y habilidades, así como apoyo para la búsqueda de empleo y el emprendimiento. 
 
-4. Estímulo de la responsabilidad social corporativa y la gobernanza empresarial: 
+- Estímulo de la responsabilidad social corporativa y la gobernanza empresarial: 
 Fomentar que las empresas adopten prácticas de responsabilidad social 
 corporativa y buena gobernanza, lo cual puede ayudar a asegurar que las M&A 
 resulten en beneficios para la sociedad, además de para las empresas. Esto puede 

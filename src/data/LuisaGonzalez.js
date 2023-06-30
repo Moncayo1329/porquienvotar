@@ -2,113 +2,54 @@ const data = {
 	name: "Luisa Gonzalez",
 	proposals: [
 		{
-			name: "Seguridad 🦺",
-			link: "#Seguridad",
+			name: "Vida buena 🏖️",
+			link: "#Vidabuena",
 		},
 		{
-			name: "Instituciones 🏛️",
-			link: "#Instituciones",
+			name: "Paz, Seguridad y orden 🦺",
+			link: "#Paz",
 		},
 		{
-			name: "Económico 💰",
-			link: "#Económico ",
-		},
-		{
-			name: "Social 🚶‍♂️",
-			link: "#Social",
-		},
-		{
-			name: "Libre de Drogas 🔫",
-			link: "#LibredeDrogas ",
-		},
-		{
-			name: "Educación 🏫",
-			link: "#Educación",
-		},
-		{
-			name: "Calidad de vida 👨‍👩‍👦",
-			link: "#Calidaddevida",
-		},
-		{
-			name: "Vivienda 🏠",
-			link: "#Vivienda ",
-		},
-		{
-			name: "Politicas de Género 👩",
-			link: "#PoliticasdeGénero ",
-		},
-		{
-			name: "Politica exterior 🗺️",
-			link: "#Politicaexterior ",
-		},
-		{
-			name: "Migración Ecuatoriana ✈️",
-			link: "#MigraciónEcuatoriana",
-		},
-		{
-			name: "Transición Ecológica 🌎",
-			link: "#TransiciónEcológica",
-		},
-		{
-			name: "Bienestar Animal 🐕",
-			link: "#BienestarAnimal ",
-		},
-		{
-			name: "Empleo 💼",
-			link: "#Empleo ",
-		},
-		{
-			name: "Estimulo a la Inversión 🏦",
-			link: "#EstimuloalaInversión",
-		},
-		{
-			name: "Liquidez 💸",
-			link: "#Liquidez",
-		},
-		{
-			name: "Crecimiento Económico📈",
-			link: "#CrecimientoEconómico",
-		},
-		{
-			name: "Inversiones💱",
-			link: "#Inversiones",
-		},
-		{
-			name: "Emprendimiento 💻",
-			link: "#Emprendimiento ",
-		},
-		{
-			name: "Agricultura🚜",
-			link: "#Agricultura",
-		},
-		{
-			name: "Empresa🏭",
-			link: "#Empresa",
-		},
-		{
-			name: "Reforma Tributarias 🎖️",
-			link: "#ReformaTributarias",
-		},
-		{
-			name: "Turismo 🏞️",
-			link: "#Turismo ",
-		},
-		{
-			name: "Fortalecimiento💪",
-			link: "#Fortalecimiento",
-		},
-		{
-			name: "Conectividad 🛰️",
-			link: "#Conectividad",
+			name: "Económica 💰",
+			link: "#Económica",
 		},
 		{
 			name: "Corrupción 🥊",
 			link: "#Corrupción",
 		},
 		{
-			name: "Legislación ⚖️",
-			link: "#Legislación",
+			name: "Democrácia participativa 🗳️",
+			link: "#Democráciaparticipativa",
 		},
+		{
+			name: "Mujeres y niñas 👩",
+			link: "#Mujeresyniñas",
+		},
+		{
+			name: "Decolonial, plurinacional e intercultural 🚶‍♂️",
+			link: "#Decolonial",
+		},
+		{
+			name: "Justicia ecológica y transición energética 🌎",
+			link: "#ecológica",
+		},
+		{
+			name: "Digital y nueva economía de la información 🛰️",
+			link: "#digital",
+		},
+		{
+			name: "Soberanía e integración 🗺️",
+			link: "#Internacional",
+		},
+		{
+			name: "Justicia cognitiva 🎖️",
+			link: "#Justiciacognitiva",
+		},
+		{
+			name: "Generaciones ⚖️",
+			link: "#Generaciones",
+		},
+		
 	],
 };
 export default data;
