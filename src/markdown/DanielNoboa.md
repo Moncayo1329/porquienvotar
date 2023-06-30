@@ -1209,7 +1209,7 @@ sistema.
 <br>
 <br>
 <hr>
-<div id="SectoresEstratégicos ">
+<div id="SectoresEstratégicos">
 <span style="font-size: 25px;color:#2d3956;">Sectores Estratégicos 🚀</span>
 </div>
 <br>

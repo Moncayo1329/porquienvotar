@@ -111,11 +111,6 @@ const data = {
 		},
 
 		{
-			name: "Relaciones Comerciales 🛥️",
-			link: "#RelacionesComerciales",
-		},
-
-		{
 			name: "Inversión estatal 🏢",
 			link: "#Inversiónestatal",
 		},
@@ -128,10 +123,7 @@ const data = {
 			name: "Sistema de Jubilación 👴",
 			link: "#SistemadeJubilación",
 		},
-		{
-			name: "Relaciones Comerciales 🛥️",
-			link: "#RelacionesComerciales",
-		},
+		
 		{
 			name: "Sectores Estratégicos 🚀",
 			link: "#SectoresEstratégicos",
