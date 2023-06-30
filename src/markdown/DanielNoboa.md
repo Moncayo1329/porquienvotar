@@ -45,7 +45,7 @@ bien mantenidos.
 <hr>
 
 <div id="CiberSeguridad">
-<span style="font-size: 25px;color: #2d3956;">CiberSeguridad</span>
+<span style="font-size: 25px;color: #2d3956;">CiberSeguridad 🕹️</span>
 </div>
 <br>
 
@@ -82,23 +82,6 @@ y en comportamientos seguros en línea.
 estrategia nacional de ciberseguridad que abarque tanto al sector público como al privado. Esta 
 estrategia incluirá medidas para proteger la infraestructura crítica del país, 
 prevenir los delitos cibernéticos y responder eficazmente en caso de incidentes de ciberseguridad.
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<hr>
-<div id="Económico">
-<span style="font-size: 25px;color: #2d3956;">Económico 💰</span>
-</div>
-<br>
-<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat sapien vitae elit bibendum, ac placerat sapien interdum. Aliquam iaculis pulvinar odio ut bibendum. Etiam mollis ipsum sollicitudin consequat hendrerit. Suspendisse potenti. Vivamus neque est, hendrerit eget eleifend at, laoreet varius ligula. Curabitur arcu orci, cursus ut erat non, lobortis egestas felis. Proin ullamcorper in quam nec cursus. Fusce eu porta urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec fringilla condimentum odio non fringilla. Pellentesque gravida nisl vitae bibendum sodales.
-
-Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien, sed mattis leo. Cras semper, neque ut feugiat blandit, ligula dui mattis ante, ut posuere neque est eu neque. Donec quis rutrum urna, ut imperdiet augue. In accumsan lacus vel tellus pulvinar, et venenatis mauris sollicitudin. Donec vel metus scelerisque, tincidunt nibh ac, mollis erat. Etiam tempor metus at hendrerit venenatis. Mauris vel orci mauris. Aliquam massa ligula, vulputate ac condimentum at, molestie sit amet tellus.
-
 <br>
 <br>
 <br>
@@ -108,7 +91,7 @@ Integer id varius lectus. Ut tincidunt libero libero. Aenean at porttitor sapien
 <hr>
 
 <div id="Sistemapenitenciario ">
-<span style="font-size: 25px;color: #2d3956;">Sistema penitenciario </span>
+<span style="font-size: 25px;color: #2d3956;">Sistema penitenciario👮 </span>
 </div>
 <br>
 <br>
@@ -172,7 +155,7 @@ reintegren en la sociedad de manera más efectiva.
 
 <hr>
 
-<div id="LibredeDrogas">
+<div id="Educación">
 <span style="font-size: 25px;color:#2d3956;">Educación 🏫</span>
 </div>
 <br>
@@ -226,8 +209,8 @@ investigación, reflejadas en oportunidades educativas equitativas, integrativas
 <br>
 <br>
 <hr>
-<div id="Educación">
-<span style="font-size: 25px;color:#2d3956;">Cultura 🏫</span>
+<div id="Cultura">
+<span style="font-size: 25px;color:#2d3956;">Cultura 🏛️</span>
 </div>
 <br>
 <br>
@@ -261,8 +244,8 @@ de conocimientos.
 <br>
 <br>
 <hr>
-<div id="Calidaddevida">
-<span style="font-size: 25px;color:#2d3956;">Salud</span>
+<div id="Salud">
+<span style="font-size: 25px;color:#2d3956;">Salud 🏥</span>
 </div>
 <br>
 <br>
@@ -341,8 +324,8 @@ eficiencia y la efectividad de nuestros servicios de salud, como la telemedicina
 <br>
 <br>
 <hr>
-<div id="Vivienda">
-<span style="font-size: 25px;color:#2d3956;">Migrantes en Ecuador🏠</span>
+<div id="MigrantesenEcuador">
+<span style="font-size: 25px;color:#2d3956;">Migrantes en Ecuador✈️</span>
 </div>
 <br>
 <br>
@@ -383,8 +366,8 @@ migrantes y promoverán el respeto y la diversidad en las aulas.
 <br>
 <br>
 <hr>
-<div id="PoliticasdeGénero">
-<span style="font-size: 25px;color:#2d3956;">Pueblos y Nacionalidades</span>
+<div id="PueblosyNacionalidades">
+<span style="font-size: 25px;color:#2d3956;">Pueblos y Nacionalidades ℹ️</span>
 </div>
 <br>
 <br>
@@ -409,8 +392,8 @@ ancestrales, promoción de turismo comunitario y reconocimiento de sabiduría
 <br>
 <br>
 <hr>
-<div id="Politicaexterior">
-<span style="font-size: 25px;color:#2d3956;">LGBTQ+ </span>
+<div id="LGBTQ+">
+<span style="font-size: 25px;color:#2d3956;">LGBTQ+ 🏳️‍🌈</span>
 </div>
 <br>
 <br>
@@ -448,8 +431,8 @@ canales de denuncia de acoso o discriminación.
 <br>
 <br>
 <hr>
-<div id="MigraciónEcuatoriana">
-<span style="font-size: 25px;color:#2d3956;"> Participación ciudadana </span>
+<div id="Participaciónciudadana ">
+<span style="font-size: 25px;color:#2d3956;"> Participación ciudadana 🚶‍♂️ </span>
 </div>
 <br>
 <br>
@@ -484,8 +467,8 @@ o corregir los acuerdos que sustentan la gestión pública. De esta manera, se p
 <br>
 <br>
 <hr>
-<div id="TransiciónEcológica">
-<span style="font-size: 25px;color:#2d3956;">Desempleo 🌎</span>
+<div id="Desempleo">
+<span style="font-size: 25px;color:#2d3956;">Desempleo 💼</span>
 </div>
 <br>
 <br>
@@ -527,8 +510,8 @@ de fondos públicos y privados, y podría generar una gran cantidad de empleos.
 <br>
 <br>
 <hr>
-<div id="BienestarAnimal">
-<span style="font-size: 25px;color:#2d3956;">dolarización</span>
+<div id="Dolarización">
+<span style="font-size: 25px;color:#2d3956;">Dolarización 💰</span>
 </div>
 <br>
 <br>
@@ -575,8 +558,8 @@ un nivel adecuado de gasto público para evitar presiones inflacionarias.
 <br>
 <br>
 <hr>
-<div id="Empleo">
-<span style="font-size: 25px;color:#2d3956;"> Turismo 💼</span>
+<div id="Turismo">
+<span style="font-size: 25px;color:#2d3956;"> Turismo 🏞️</span>
 </div>
 <br>
 <br>
@@ -599,8 +582,8 @@ de ecoturismo, dotando al mismo de beneficios tributarios por la baja emisión d
 <br>
 <br>
 <hr>
-<div id="EstimuloalaInversión">
-<span style="font-size: 25px;color:#2d3956;">Agricultura 🏦</span>
+<div id="Agricultura">
+<span style="font-size: 25px;color:#2d3956;">Agricultura 🚜</span>
 </div>
 <br>
 <br>
@@ -624,8 +607,8 @@ técnica de Instituto Nacional de Investigaciones Agropecuarias de Ecuador.
 <br>
 <br>
 <hr>
-<div id="Liquidez">
-<span style="font-size: 25px;color:#2d3956;">Ganaderia  💸</span>
+<div id="Ganaderia">
+<span style="font-size: 25px;color:#2d3956;">Ganaderia 🐄</span>
 </div>
 <br>
 <br>
@@ -653,8 +636,8 @@ bioseguridad en la producción, lo cual promoverá la competitividad en el secto
 <br>
 <br>
 <hr>
-<div id="CrecimientoEconómico">
-<span style="font-size: 25px;color:#2d3956;"> Pesca 📈</span>
+<div id="Pesca">
+<span style="font-size: 25px;color:#2d3956;"> Pesca 🎣</span>
 </div>
 <br>
 <br>
@@ -679,8 +662,8 @@ programas de investigación y control pesquero, creando medidas para fortalecer 
 <br>
 <br>
 <hr>
-<div id="Inversiones">
-<span style="font-size: 25px;color:#2d3956;">Deuda pública </span>
+<div id="DeudaPública">
+<span style="font-size: 25px;color:#2d3956;">Deuda Pública 💵</span>
 </div>
 <br>
 <br>
@@ -718,8 +701,8 @@ sanciones tanto para las personas como para las empresas involucradas.
 <br>
 <br>
 <hr>
-<div id="Emprendimiento">
-<span style="font-size: 25px;color:#2d3956;">sistema crediticio💻</span>
+<div id="Sistemacrediticio">
+<span style="font-size: 25px;color:#2d3956;">Sistema crediticio⌨️</span>
 </div>
 <br>
 <br>
@@ -751,8 +734,8 @@ prácticas
 <br>
 <br>
 <hr>
-<div id="Agricultura">
-<span style="font-size: 25px;color:#2d3956;">Corrupción🚜</span>
+<div id="Corrupción">
+<span style="font-size: 25px;color:#2d3956;">Corrupción 🥊</span>
 </div>
 <br>
 <br>
@@ -786,7 +769,7 @@ se calculan y utilizan, y las consecuencias de la evasión fiscal.
 <br>
 <br>
 <hr>
-<div id="Empresa🏭">
+<div id="Sostenibilidadproductiva">
 <span style="font-size: 25px;color:#2d3956;">Sostenibilidad productiva🏭</span>
 </div>
 <br>
@@ -828,7 +811,7 @@ el sector financiero.
 <br>
 <br>
 <hr>
-<div id="ReformaTributarias ">
+<div id="Compraspúblicas">
 <span style="font-size: 25px;color:#2d3956;">Compras públicas  🎖️</span>
 </div>
 <br>
@@ -872,8 +855,8 @@ para las empresas que sienten que han sido tratadas injustamente.
 <br>
 <br>
 <hr>
-<div id="Turismo">
-<span style="font-size: 25px;color:#2d3956;">Salarios dignos </span>
+<div id="Salariosdignos">
+<span style="font-size: 25px;color:#2d3956;">Salarios dignos 📈</span>
 </div>
 <br>
 <br>
@@ -921,8 +904,8 @@ contra la discriminación salarial.
 <br>
 <br>
 <hr>
-<div id="Fortalecimiento">
-<span style="font-size: 25px;color:#2d3956;">Incentivos Tributarios 💪</span>
+<div id="IncentivosTributarios">
+<span style="font-size: 25px;color:#2d3956;">Incentivos Tributarios ⚖️</span>
 </div>
 <br>
 <br>
@@ -959,8 +942,8 @@ ayudar a Ecuador a avanzar hacia una economía más verde y sostenible.
 <br>
 <br>
 <hr>
-<div id="Conectividad">
-<span style="font-size: 25px;color:#2d3956;">Paraísos fiscales 🛰️</span>
+<div id="Paraísosfiscales">
+<span style="font-size: 25px;color:#2d3956;">Paraísos fiscales 🏖️</span>
 </div>
 <br>
 <br>
@@ -1001,8 +984,8 @@ adopten prácticas de buena gobernanza fiscal y eviten el uso de paraísos fisca
 <br>
 <br>
 <hr>
-<div id="Corrupción">
-<span style="font-size: 25px;color:#2d3956;">Fusiones y adquisiciones 🥊</span>
+<div id="Fusionesyadquisiciones">
+<span style="font-size: 25px;color:#2d3956;">Fusiones y adquisiciones 💺</span>
 </div>
 <br>
 <br>
@@ -1036,8 +1019,8 @@ el medio ambiente, y contribuyan al desarrollo comunitario.
 <br>
 <br>
 <hr>
-<div id="Legislación">
-<span style="font-size: 25px;color:#2d3956;">Emprendimiento ⚖️</span>
+<div id="Emprendimiento">
+<span style="font-size: 25px;color:#2d3956;">Emprendimiento 💻</span>
 </div>
 <br>
 <br>
@@ -1091,8 +1074,8 @@ emprendedores a superar los desafíos iniciales y a establecer sus negocios.
 <br>
 <br>
 <hr>
-<div id="Legislación">
-<span style="font-size: 25px;color:#2d3956;">Relaciones Comerciales⚖️</span>
+<div id="RelacionesComerciales">
+<span style="font-size: 25px;color:#2d3956;">Relaciones Comerciales 🛥️</span>
 </div>
 <br>
 <br>
@@ -1145,8 +1128,8 @@ desarrollo.
 <br>
 <br>
 <hr>
-<div id="Legislación">
-<span style="font-size: 25px;color:#2d3956;">Inversión estatal⚖️</span>
+<div id="Inversiónestatal">
+<span style="font-size: 25px;color:#2d3956;">Inversión estatal 🏢</span>
 </div>
 <br>
 <br> 
@@ -1186,8 +1169,8 @@ subfinanciadas. Esto podría incluir la mejora de las infraestructuras escolares
 <br>
 <br>
 <hr>
-<div id="Legislación">
-<span style="font-size: 25px;color:#2d3956;">Sistema de Jubilación⚖️</span>
+<div id="SistemadeJubilación">
+<span style="font-size: 25px;color:#2d3956;">Sistema de Jubilación 👴</span>
 </div>
 <br>
 <br> 
@@ -1226,8 +1209,8 @@ sistema.
 <br>
 <br>
 <hr>
-<div id="Legislación">
-<span style="font-size: 25px;color:#2d3956;">Sectores Estratégicos ⚖️</span>
+<div id="SectoresEstratégicos ">
+<span style="font-size: 25px;color:#2d3956;">Sectores Estratégicos 🚀</span>
 </div>
 <br>
 <br> 

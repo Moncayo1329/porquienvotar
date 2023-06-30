@@ -6,108 +6,135 @@ const data = {
 			link: "#Seguridad",
 		},
 		{
-			name: "Instituciones 🏛️",
-			link: "#Instituciones",
+			name: "CiberSeguridad 🕹️",
+			link: "#CiberSeguridad",
 		},
 		{
-			name: "Económico 💰",
-			link: "#Económico ",
-		},
-		{
-			name: "Social 🚶‍♂️",
-			link: "#Social",
-		},
-		{
-			name: "Libre de Drogas 🔫",
-			link: "#LibredeDrogas ",
+			name: "Sistema penitenciario 👮",
+			link: "#Sistemapenitenciario",
 		},
 		{
 			name: "Educación 🏫",
 			link: "#Educación",
 		},
 		{
-			name: "Calidad de vida 👨‍👩‍👦",
-			link: "#Calidaddevida",
+			name: "Cultura 🏛️",
+			link: "#Cultura",
 		},
 		{
-			name: "Vivienda 🏠",
-			link: "#Vivienda ",
+			name: "Salud 🏥",
+			link: "#Salud",
 		},
 		{
-			name: "Politicas de Género 👩",
-			link: "#PoliticasdeGénero ",
+			name: "Migrantes en Ecuador✈️",
+			link: "#MigrantesenEcuador",
 		},
 		{
-			name: "Politica exterior 🗺️",
-			link: "#Politicaexterior ",
+			name: "Pueblos y Nacionalidades ℹ️",
+			link: "#PueblosyNacionalidades",
+		},
+		{
+			name: "LGBTQ+ 🏳️‍🌈",
+			link: "#LGBTQ+",
+		},
+		{
+			name: "Participación ciudadana 🚶‍♂️",
+			link: "#Participaciónciudadana",
 		},
 		{
 			name: "Migración Ecuatoriana ✈️",
 			link: "#MigraciónEcuatoriana",
 		},
 		{
-			name: "Transición Ecológica 🌎",
-			link: "#TransiciónEcológica",
+			name: "Desempleo 💼",
+			link: "#Desempleo",
 		},
 		{
-			name: "Bienestar Animal 🐕",
-			link: "#BienestarAnimal ",
-		},
-		{
-			name: "Empleo 💼",
-			link: "#Empleo ",
-		},
-		{
-			name: "Estimulo a la Inversión 🏦",
-			link: "#EstimuloalaInversión",
-		},
-		{
-			name: "Liquidez 💸",
-			link: "#Liquidez",
-		},
-		{
-			name: "Crecimiento Económico📈",
-			link: "#CrecimientoEconómico",
-		},
-		{
-			name: "Inversiones💱",
-			link: "#Inversiones",
-		},
-		{
-			name: "Emprendimiento 💻",
-			link: "#Emprendimiento ",
-		},
-		{
-			name: "Agricultura🚜",
-			link: "#Agricultura",
-		},
-		{
-			name: "Empresa🏭",
-			link: "#Empresa",
-		},
-		{
-			name: "Reforma Tributarias 🎖️",
-			link: "#ReformaTributarias",
+			name: "Dolarización 💰",
+			link: "#Dolarización",
 		},
 		{
 			name: "Turismo 🏞️",
-			link: "#Turismo ",
+			link: "#Turismo",
 		},
 		{
-			name: "Fortalecimiento💪",
-			link: "#Fortalecimiento",
+			name: "Agricultura 🚜",
+			link: "#Agricultura",
 		},
 		{
-			name: "Conectividad 🛰️",
-			link: "#Conectividad",
+			name: "Ganaderia 🐄",
+			link: "#Ganaderia",
+		},
+		{
+			name: "Pesca 🎣",
+			link: "#Pesca",
+		},
+		{
+			name: "Deuda Pública 💵",
+			link: "#Deuda Pública",
+		},
+		{
+			name: "Sistema crediticio ⌨️",
+			link: "#Sistemacrediticio",
 		},
 		{
 			name: "Corrupción 🥊",
 			link: "#Corrupción",
 		},
 		{
-			name: "Legislación ⚖️",
-			link: "#Legislación",
+			name: "Sostenibilidad productiva🏭",
+			link: "#Sostenibilidadproductiva",
+		},
+		{
+			name: "Compras públicas  🎖️",
+			link: "#Compraspúblicas",
+		},
+		{
+			name: "Salarios dignos 📈",
+			link: "#Salariosdignos",
+		},
+		{
+			name: "Incentivos Tributarios ⚖️",
+			link: "#IncentivosTributarios",
+		},
+		{
+			name: "Paraísos fiscales 🏖️",
+			link: "#Paraísosfiscales",
+		},
+		{
+			name: "Fusiones y adquisiciones 💺",
+			link: "#Fusionesyadquisiciones",
+		},
+		{
+			name: "Emprendimiento 💻",
+			link: "#Emprendimiento",
+		},
+
+		{
+			name: "Relaciones Comerciales 🛥️",
+			link: "#RelacionesComerciales",
+		},
+
+		{
+			name: "Inversión estatal 🏢",
+			link: "#Inversiónestatal",
+		},
+
+		{
+			name: "Relaciones Comerciales 🛥️",
+			link: "#RelacionesComerciales",
+		},
+		{
+			name: "Sistema de Jubilación 👴",
+			link: "#SistemadeJubilación",
+		},
+		{
+			name: "Relaciones Comerciales 🛥️",
+			link: "#RelacionesComerciales",
+		},
+		{
+			name: "Sectores Estratégicos 🚀",
+			link: "#SectoresEstratégicos",
 		},
 	],
 };
