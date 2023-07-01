@@ -2,113 +2,34 @@ const data = {
 	name: "Yaku Perez",
 	proposals: [
 		{
-			name: "Seguridad 🦺",
+			name: "Programa 📜",
+			link: "#Programa",
+		},
+		{
+			name: "Gestión Gubernamental 🏛️",
+			link: "#GestiónGubernamental",
+		},
+		{
+			name: "Minka por la Seguridad 🦺",
 			link: "#Seguridad",
 		},
 		{
-			name: "Instituciones 🏛️",
-			link: "#Instituciones",
+			name: "Minka por la Economía 💰",
+			link: "#Economía",
 		},
 		{
-			name: "Económico 💰",
-			link: "#Económico ",
+			name: "Minka por la Ecología 🌎",
+			link: "#Ecología",
 		},
 		{
-			name: "Social 🚶‍♂️",
-			link: "#Social",
+			name: "Minka por la Ética y la Gobernabilidad 🎖️",
+			link: "#Gobernabilidad",
 		},
 		{
-			name: "Libre de Drogas 🔫",
-			link: "#LibredeDrogas ",
+			name: "Estratégias de acción 🚀",
+			link: "#Estratégias",
 		},
-		{
-			name: "Educación 🏫",
-			link: "#Educación",
-		},
-		{
-			name: "Calidad de vida 👨‍👩‍👦",
-			link: "#Calidaddevida",
-		},
-		{
-			name: "Vivienda 🏠",
-			link: "#Vivienda ",
-		},
-		{
-			name: "Politicas de Género 👩",
-			link: "#PoliticasdeGénero ",
-		},
-		{
-			name: "Politica exterior 🗺️",
-			link: "#Politicaexterior ",
-		},
-		{
-			name: "Migración Ecuatoriana ✈️",
-			link: "#MigraciónEcuatoriana",
-		},
-		{
-			name: "Transición Ecológica 🌎",
-			link: "#TransiciónEcológica",
-		},
-		{
-			name: "Bienestar Animal 🐕",
-			link: "#BienestarAnimal ",
-		},
-		{
-			name: "Empleo 💼",
-			link: "#Empleo ",
-		},
-		{
-			name: "Estimulo a la Inversión 🏦",
-			link: "#EstimuloalaInversión",
-		},
-		{
-			name: "Liquidez 💸",
-			link: "#Liquidez",
-		},
-		{
-			name: "Crecimiento Económico📈",
-			link: "#CrecimientoEconómico",
-		},
-		{
-			name: "Inversiones💱",
-			link: "#Inversiones",
-		},
-		{
-			name: "Emprendimiento 💻",
-			link: "#Emprendimiento ",
-		},
-		{
-			name: "Agricultura🚜",
-			link: "#Agricultura",
-		},
-		{
-			name: "Empresa🏭",
-			link: "#Empresa",
-		},
-		{
-			name: "Reforma Tributarias 🎖️",
-			link: "#ReformaTributarias",
-		},
-		{
-			name: "Turismo 🏞️",
-			link: "#Turismo ",
-		},
-		{
-			name: "Fortalecimiento💪",
-			link: "#Fortalecimiento",
-		},
-		{
-			name: "Conectividad 🛰️",
-			link: "#Conectividad",
-		},
-		{
-			name: "Corrupción 🥊",
-			link: "#Corrupción",
-		},
-		{
-			name: "Legislación ⚖️",
-			link: "#Legislación",
-		},
+		
 	],
 };
 export default data;
