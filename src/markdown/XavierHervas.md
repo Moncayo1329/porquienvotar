@@ -20,7 +20,7 @@ PPL, Talleres para reinserción social.  Diferenciación cárceles alta, mediana
 baja seguridad.  Circuitos videovigilancia en todas las cárceles. 
 5. COSEPE: Activar en sesión permanente por el período de gobierno   
 
-##Fortalecimiento de las instituciones de seguridad: 
+Fortalecimiento de las instituciones de seguridad: 
 
 
 • Dotar de recursos adecuados a las fuerzas de seguridad, incluyendo 
@@ -33,7 +33,7 @@ zonas calientes y promever el desarrollo social.
 transparencia y la integridad en el accionar de las fuerzas de seguridad. 
 
 
-##Prevención del delito y promoción de la cultura de paz:
+Prevención del delito y promoción de la cultura de paz:
 
 • Implementar programas de prevención del delito dirigidos a diferentes grupos de 
 la sociedad, especialmente a jóvenes en riesgo de involucrarse en actividades 
@@ -51,7 +51,7 @@ evitar el ingreso de drogas ilícitas y el tráfico de armas.
 coordinar acciones conjuntas en la lucha contra el crimen transnacional. 
 
 
-##Justicia y reinserción social: 
+Justicia y reinserción social: 
 
 
 • Mejorar la capacidad y eficiencia del sistema de justicia, garantizando procesos 
@@ -65,7 +65,7 @@ capacitación y empleo.
 y trastornos de conducta, con el objetivo de reducir la reincidencia delictiva. 
 
 
-##Tecnología y seguridad ciudadana:  
+Tecnología y seguridad ciudadana:  
 
 
 • Promover la utilización de tecnología y sistemas de seguridad avanzados, como 
@@ -77,7 +77,7 @@ ciudadana y la comunicación directa con las autoridades.
 tecnología para el combate al delito.  
 
 
-##Cooperación internacional en seguridad:  
+Cooperación internacional en seguridad:  
 
 
 • Fortalecer los lazos de cooperación y colaboración con otros países en materia 
@@ -89,7 +89,7 @@ hacer frente a los desafíos de seguridad global.
 
 
 
-##Protección de grupos vulnerables:  
+Protección de grupos vulnerables:  
 
 
 • Implementar políticas y programas de protección especial para grupos 
@@ -105,7 +105,7 @@ situación de riesgo, enfocados en la prevención del delito, la rehabilitació
 reintegración familiar.
 
 
-##Transparencia y participación ciudadana: 
+Transparencia y participación ciudadana: 
 
 • Fomentar la transparencia en la gestión de la seguridad, promoviendo la 
 rendición de cuentas y el acceso a la información pública relacionada con el 
@@ -118,7 +118,7 @@ y la comunidad, para promover la confianza, recibir denuncias y brindar
 información oportuna. 
 
 
-##Evaluación y seguimiento: 
+Evaluación y seguimiento: 
 
 
 • Implementar un sistema de evaluación, retroalimentación y seguimiento 
@@ -128,7 +128,7 @@ realizar los ajustes necesarios.
 riesgo y las tendencias delictivas, con el fin de adaptar las estrategias de 
 seguridad de manera precisa y basada en evidencias.  
 
-##Recursos financieros y presupuesto: 
+Recursos financieros y presupuesto: 
 
 • Destinar los recursos financieros necesarios para la implementación de las 
 políticas y programas de seguridad, considerando la importancia de garantizar 
@@ -138,7 +138,7 @@ estratégicas de seguridad, y buscando fuentes de financiamiento adicionales a
 través de alianzas público-privadas y cooperación internacional. 
 
 
-##Educación y cultura de prevención:  
+Educación y cultura de prevención:  
 
 • Promover la educación en valores, ética y ciudadanía desde las etapas 
 tempranas, fomentando el respeto a la ley, la convivencia pacífica y la 
