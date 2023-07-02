@@ -14,13 +14,13 @@ const Nosotros = () => {
 		<>
 			<Navbar />
 			<div className="container mt-5 pb-5">
-				<h1 className="text-center">¿Conoce quién está detras de la web?</h1>
+				<h1 className="text-center">¿Conoce quién está detrás de la web?</h1>
 
 				<div className="row mt-5 g-3">
 					<div className="col-3">
 						<img className="w-100" src={moncayo} alt="moncayo" />
 					</div>
-					<div className="col-md-6" style={{ color: '#46526f' }}>
+					<div className="col-md-6 text-center" style={{ color: '#46526f' }}>
 						<h2>Michael Moncayo</h2>
 						<p>Este sitio web fue creado por Michael Moncayo.  
 						Creé este sitio web con el objetivo de presentar los temas importantes de los candidatos a Presidente.
@@ -39,7 +39,7 @@ const Nosotros = () => {
 					<div className="col-3">
 						<img className="w-100" src={gfrancv} alt="GFrancV" />
 					</div>
-					<div className="col-md-6" style={{ color: '#46526f' }}>
+					<div className="col-md-6 text-center" style={{ color: '#46526f' }}>
 						<h2>GFrancV</h2>
 						<div>
 							<p>Gabriel ha sido de gran ayuda, no solo con este sitio web, sino con todo en general.
