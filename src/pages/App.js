@@ -1,9 +1,22 @@
-import React from "react";
+import React , {useEffect}from "react";
 import { Link } from "react-router-dom";
 import Navbar from "../components/Navbar";
+import ReactGA from "react-ga"; 
+
 
 
 function HomePage() {
+
+	useEffect(() => {
+		ReactGA.initialize('G-LMDQTYCSWJ')
+
+		ReactGA.pageview('/');
+
+
+	  }, []);
+
+
+
 	const candidatos = [
 		{
 			name: "Jan T. Topic",
@@ -38,6 +51,7 @@ function HomePage() {
 			link: "LuisaGonzalez",
 		},
 	];
+
 
 	return (
 		<div>
