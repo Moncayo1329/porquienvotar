@@ -10,7 +10,7 @@ function HomePage() {
 	useEffect(() => {
 		ReactGA.initialize('G-LMDQTYCSWJ')
 
-		ReactGA.pageview('/');
+		ReactGA.pageview('/App');
 
 
 	  }, []);
