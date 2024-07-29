@@ -26,7 +26,7 @@ const Nosotros = () => {
 						Creé este sitio web con el objetivo de presentar los temas importantes de los candidatos a Presidente.
 				   Me di cuenta de que muchas personas no leen las propuestas presidenciales y por lo tanto no sabemos  por qué votamos realmente y qué está en juego, 
 				y creo que es muy importante estar informado de lo que votamos  y de esa manera tener una mejor elección de nuestras autoridades.
-			     Votar.in está diseñado para estar libre de información errónea y ser un trampolín para el aprendizaje futuro.<br></br> Quiero  agradecer a Martin Machado, Anahi Parraga, Romina Sanchez, Jorge baldeon y mi primo Pablo Andrés León por su feedback y su apoyo. También a las personas que están utilizando la website. </p>
+			     Votar.in está diseñado para estar libre de información errónea y ser un trampolín para el aprendizaje futuro.<br></br> Quiero  agradecer a Martin Machado, Romina Sanchez, Jorge baldeon y mi primo Pablo Andrés León por su feedback y su apoyo. También a las personas que están utilizando la website. </p>
 				 <a href="https://twitter.com/MichaelMoncay7" className="text-decoration-none"> < FaTwitter/> @michaelmoncayo7</a> <br></br>
 				 <a href="https://instagram.com/michaelmoncayo7?igshid=OGQ5ZDc2ODk2ZA==" className="text-decoration-none" style={{ color: '#FF0000' }}> < FaInstagram/> @michaelmoncayo7</a> <br></br>
 				 <a href="https://github.com/Moncayo1329" className="text-decoration-none" style={{ color: '#00008B' }}> < FaGithub/> @Moncayo1329</a><br></br>
